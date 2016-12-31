@@ -1,0 +1,2 @@
+I: pSpeed180 self.MotorTempo0
+I: pSpeed360 self.MotorTempo60

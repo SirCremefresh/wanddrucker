@@ -1,0 +1,5 @@
+I: im_x = 64
+I: im_y = 63
+I: Colorselector = BW
+I: pSpeed180 self.MotorTempo0
+I: pSpeed180 self.MotorTempo0

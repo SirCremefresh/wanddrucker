@@ -1,0 +1,934 @@
+I: im_x = 64
+I: im_y = 64
+I: Colorselector = BW
+I: pX = 234 pY = 0
+I: GradM1 = 0.0 LangeM1 = 254.472002389 LangeM1alt = 254.472002389 differenzM1 = 0.0
+I: GradM2 = 0.0 LangeM2 = 254.472002389 LangeM2alt = 254.472002389 differenzM2 = 0.0
+I: pX = 196 pY = 5
+I: GradM1 = 70.7808361755 LangeM1 = 222.35332244 LangeM1alt = 254.472002389 differenzM1 = 32.1186799495
+I: GradM2 = -81.7385364794 LangeM2 = 291.563029206 LangeM2alt = 254.472002389 differenzM2 = -37.0910268171
+I: steps = 90.8205960883 / int(steps) = 90I: steps = 78.6453735283 / int(steps) = 78I: pX = 197 pY = 5
+I: GradM1 = -1.9436428117 LangeM1 = 223.235301868 LangeM1alt = 222.35332244 differenzM1 = -0.881979428022
+I: GradM2 = 2.05537262907 LangeM2 = 290.630349413 LangeM2alt = 291.563029206 differenzM2 = 0.932679793246
+I: steps = -1.46315127737 / int(steps) = 1I: steps = -1.51422959577 / int(steps) = 1I: pX = 198 pY = 5
+I: GradM1 = -1.94582681998 LangeM1 = 224.118272347 LangeM1alt = 223.235301868 differenzM1 = -0.882970479655
+I: GradM2 = 2.05438289616 LangeM2 = 289.698118737 LangeM2alt = 290.630349413 differenzM2 = 0.932230675714
+I: steps = -2.74579893977 / int(steps) = 2I: steps = -2.67625939576 / int(steps) = 2I: pX = 199 pY = 5
+I: GradM1 = -1.94798511633 LangeM1 = 225.002222211 LangeM1alt = 224.118272347 differenzM1 = -0.883949863811
+I: GradM2 = 2.05338357772 LangeM2 = 288.766341529 LangeM2alt = 289.698118737 differenzM2 = 0.931777208494
+I: steps = -3.02733624835 / int(steps) = 3I: steps = -2.84068730279 / int(steps) = 2I: pX = 200 pY = 5
+I: GradM1 = -1.9501180749 LangeM1 = 225.887139962 LangeM1alt = 225.002222211 differenzM1 = -0.884917750282
+I: GradM2 = 2.05237455433 LangeM2 = 287.835022192 LangeM2alt = 288.766341529 differenzM2 = 0.931319337393
+I: steps = -2.30775241983 / int(steps) = 2I: steps = -3.00748516379 / int(steps) = 3I: pX = 201 pY = 5
+I: GradM1 = -1.95222606367 LangeM1 = 226.773014268 LangeM1alt = 225.887139962 differenzM1 = -0.885874306041
+I: GradM2 = 2.05135570477 LangeM2 = 286.904165184 LangeM2alt = 287.835022192 differenzM2 = 0.930857007407
+I: steps = -2.58703653624 / int(steps) = 2I: steps = -2.17662523453 / int(steps) = 2I: pX = 202 pY = 5
+I: GradM1 = -1.95430944449 LangeM1 = 227.659833963 LangeM1alt = 226.773014268 differenzM1 = -0.886819695296
+I: GradM2 = 2.05032690601 LangeM2 = 285.973775021 LangeM2alt = 286.904165184 differenzM2 = 0.930390162709
+I: steps = -2.86517754292 / int(steps) = 2I: steps = -2.34808017286 / int(steps) = 2I: pX = 203 pY = 5
+I: GradM1 = -1.95636857326 LangeM1 = 228.547588042 LangeM1alt = 227.659833963 differenzM1 = -0.887754079536
+I: GradM2 = 2.04928803318 LangeM2 = 285.043856275 LangeM2alt = 285.973775021 differenzM2 = 0.929918746632
+I: steps = -3.14216424645 / int(steps) = 3I: steps = -2.52182303203 / int(steps) = 2I: pX = 204 pY = 5
+I: GradM1 = -1.95840379997 LangeM1 = 229.43626566 LangeM1alt = 228.547588042 differenzM1 = -0.888677617584
+I: GradM2 = 2.04823895952 LangeM2 = 284.114413573 LangeM2alt = 285.043856275 differenzM2 = 0.929442701661
+I: steps = -2.41798531258 / int(steps) = 2I: steps = -2.69782725422 / int(steps) = 2I: pX = 205 pY = 5
+I: GradM1 = -1.96041546883 LangeM1 = 230.325856126 LangeM1alt = 229.43626566 differenzM1 = -0.889590465634
+I: GradM2 = 2.04717955636 LangeM2 = 283.185451604 LangeM2alt = 284.114413573 differenzM2 = 0.928961969409
+I: steps = -2.69262926409 / int(steps) = 2I: steps = -2.87606666403 / int(steps) = 2I: pX = 206 pY = 5
+I: GradM1 = -1.96240391838 LangeM1 = 231.216348903 LangeM1alt = 230.325856126 differenzM1 = -0.890492777306
+I: GradM2 = 2.04610969311 LangeM2 = 282.256975113 LangeM2alt = 283.185451604 differenzM2 = 0.92847649061
+I: steps = -2.96608447866 / int(steps) = 2I: steps = -3.05651546222 / int(steps) = 3I: pX = 207 pY = 5
+I: GradM1 = -1.96436948157 LangeM1 = 232.107733607 LangeM1alt = 231.216348903 differenzM1 = -0.89138470369
+I: GradM2 = 2.04502923718 LangeM2 = 281.328988908 LangeM2alt = 282.256975113 differenzM2 = 0.927986205101
+I: steps = -3.23833918664 / int(steps) = 3I: steps = -2.23914821953 / int(steps) = 2I: pX = 208 pY = 5
+I: GradM1 = -1.96631248589 LangeM1 = 233.0 LangeM1alt = 232.107733607 differenzM1 = -0.892266393384
+I: GradM2 = 2.04393805397 LangeM2 = 280.401497856 LangeM2alt = 281.328988908 differenzM2 = 0.927491051805
+I: steps = -2.50938146883 / int(steps) = 2I: steps = -2.42393987051 / int(steps) = 2I: pX = 209 pY = 5
+I: GradM1 = -1.96823325342 LangeM1 = 233.893137993 LangeM1alt = 233.0 differenzM1 = -0.893137992546
+I: GradM2 = 2.04283600684 LangeM2 = 279.474506887 LangeM2alt = 280.401497856 differenzM2 = 0.926990968719
+I: steps = -2.77919925421 / int(steps) = 2I: steps = -2.61086570764 / int(steps) = 2I: pX = 210 pY = 5
+I: GradM1 = -1.97013210096 LangeM1 = 234.787137637 LangeM1alt = 233.893137993 differenzM1 = -0.893999644932
+I: GradM2 = 2.04172295708 LangeM2 = 278.548020995 LangeM2alt = 279.474506887 differenzM2 = 0.926485892894
+I: steps = -3.04778031763 / int(steps) = 3I: steps = -2.79990137538 / int(steps) = 2I: pX = 211 pY = 5
+I: GradM1 = -1.97200934011 LangeM1 = 235.681989129 LangeM1alt = 234.787137637 differenzM1 = -0.894851491942
+I: GradM2 = 2.04059876383 LangeM2 = 277.622045234 LangeM2alt = 278.548020995 differenzM2 = 0.925975760422
+I: steps = -2.31511227744 / int(steps) = 2I: steps = -2.99102286439 / int(steps) = 2I: pX = 212 pY = 5
+I: GradM1 = -1.97386527738 LangeM1 = 236.577682802 LangeM1alt = 235.681989129 differenzM1 = -0.895693672657
+I: GradM2 = 2.03946328412 LangeM2 = 276.696584728 LangeM2alt = 277.622045234 differenzM2 = 0.925460506415
+I: steps = -2.58118259313 / int(steps) = 2I: steps = -3.18420650593 / int(steps) = 3I: pX = 213 pY = 5
+I: GradM1 = -1.97570021425 LangeM1 = 237.474209126 LangeM1alt = 236.577682802 differenzM1 = -0.896526323883
+I: GradM2 = 2.03831637276 LangeM2 = 275.771644663 LangeM2alt = 276.696584728 differenzM2 = 0.924940064995
+I: steps = -2.84597856287 / int(steps) = 2I: steps = -2.37942896621 / int(steps) = 2I: pX = 214 pY = 5
+I: GradM1 = -1.97751444728 LangeM1 = 238.371558706 LangeM1alt = 237.474209126 differenzM1 = -0.897349580191
+I: GradM2 = 2.03715788234 LangeM2 = 274.847230293 LangeM2alt = 275.771644663 differenzM2 = 0.924414369269
+I: steps = -3.10948732102 / int(steps) = 3I: steps = -2.57666724097 / int(steps) = 2I: pX = 215 pY = 5
+I: GradM1 = -1.97930826818 LangeM1 = 239.26972228 LangeM1alt = 238.371558706 differenzM1 = -0.898163573957
+I: GradM2 = 2.03598766318 LangeM2 = 273.923346942 LangeM2alt = 274.847230293 differenzM2 = 0.923883351316
+I: steps = -2.37169583566 / int(steps) = 2I: steps = -2.77589865005 / int(steps) = 2I: pX = 216 pY = 5
+I: GradM1 = -1.98108196392 LangeM1 = 240.168690716 LangeM1alt = 239.26972228 differenzM1 = -0.898968435397
+I: GradM2 = 2.03480556329 LangeM2 = 273.0 LangeM2alt = 273.923346942 differenzM2 = 0.923346942169
+I: steps = -2.63259090599 / int(steps) = 2I: steps = -2.97710083219 / int(steps) = 2I: pX = 217 pY = 5
+I: GradM1 = -1.98283581679 LangeM1 = 241.068455008 LangeM1alt = 240.168690716 differenzM1 = -0.899764292611
+I: GradM2 = 2.03361142835 LangeM2 = 272.077194928 LangeM2alt = 273.0 differenzM2 = 0.922805071796
+I: steps = -2.89215915971 / int(steps) = 2I: steps = -3.18025173973 / int(steps) = 3I: pX = 218 pY = 5
+I: GradM1 = -1.9845701045 LangeM1 = 241.96900628 LangeM1alt = 241.068455008 differenzM1 = -0.900551271614
+I: GradM2 = 2.03240510162 LangeM2 = 271.154937259 LangeM2alt = 272.077194928 differenzM2 = 0.922257669079
+I: steps = -3.1503870504 / int(steps) = 3I: steps = -2.38532963362 / int(steps) = 2I: pX = 219 pY = 5
+I: GradM1 = -1.98628510025 LangeM1 = 242.870335776 LangeM1alt = 241.96900628 differenzM1 = -0.901329496379
+I: GradM2 = 2.03118642396 LangeM2 = 270.233232597 LangeM2alt = 271.154937259 differenzM2 = 0.9217046618
+I: steps = -2.4072608548 / int(steps) = 2I: steps = -2.59231307834 / int(steps) = 2I: pX = 220 pY = 5
+I: GradM1 = -1.98798107281 LangeM1 = 243.772434865 LangeM1alt = 242.870335776 differenzM1 = -0.902099088869
+I: GradM2 = 2.02995523375 LangeM2 = 269.312086621 LangeM2alt = 270.233232597 differenzM2 = 0.921145976617
+I: steps = -2.66276667008 / int(steps) = 2I: steps = -2.80118093702 / int(steps) = 2I: pX = 221 pY = 5
+I: GradM1 = -1.98965828661 LangeM1 = 244.675295034 LangeM1alt = 243.772434865 differenzM1 = -0.902860169073
+I: GradM2 = 2.02871136684 LangeM2 = 268.391505082 LangeM2alt = 269.312086621 differenzM2 = 0.920581539046
+I: steps = -2.91689041101 / int(steps) = 2I: steps = -3.01191236659 / int(steps) = 3I: pX = 222 pY = 5
+I: GradM1 = -1.9913170018 LangeM1 = 245.578907889 LangeM1alt = 244.675295034 differenzM1 = -0.903612855043
+I: GradM2 = 2.02745465653 LangeM2 = 267.471493808 LangeM2alt = 268.391505082 differenzM2 = 0.920011273444
+I: steps = -3.16961780715 / int(steps) = 3I: steps = -2.22448681303 / int(steps) = 2I: pX = 223 pY = 5
+I: GradM1 = -1.99295747434 LangeM1 = 246.483265152 LangeM1alt = 245.578907889 differenzM1 = -0.904357262924
+I: GradM2 = 2.02618493352 LangeM2 = 266.552058705 LangeM2alt = 267.471493808 differenzM2 = 0.919435102982
+I: steps = -2.42093439995 / int(steps) = 2I: steps = -2.43888400674 / int(steps) = 2I: pX = 224 pY = 5
+I: GradM1 = -1.99457995605 LangeM1 = 247.388358659 LangeM1alt = 246.483265152 differenzM1 = -0.905093506994
+I: GradM2 = 2.02490202584 LangeM2 = 265.633205756 LangeM2alt = 266.552058705 differenzM2 = 0.918852949631
+I: steps = -2.67082553978 / int(steps) = 2I: steps = -2.6550839579 / int(steps) = 2I: pX = 225 pY = 5
+I: GradM1 = -1.99618469473 LangeM1 = 248.294180359 LangeM1alt = 247.388358659 differenzM1 = -0.905821699691
+I: GradM2 = 2.02360575886 LangeM2 = 264.714941021 LangeM2alt = 265.633205756 differenzM2 = 0.918264734136
+I: steps = -2.91927638295 / int(steps) = 2I: steps = -2.87306695204 / int(steps) = 2I: pX = 226 pY = 5
+I: GradM1 = -1.99777193417 LangeM1 = 249.20072231 LangeM1alt = 248.294180359 differenzM1 = -0.906541951647
+I: GradM2 = 2.02229595515 LangeM2 = 263.797270645 LangeM2alt = 264.714941021 differenzM2 = 0.917670375998
+I: steps = -3.16627188867 / int(steps) = 3I: steps = -3.09281354557 / int(steps) = 3I: pX = 227 pY = 5
+I: GradM1 = -1.99934191428 LangeM1 = 250.107976682 LangeM1alt = 249.20072231 differenzM1 = -0.907254371723
+I: GradM2 = 2.02097243453 LangeM2 = 262.880200852 LangeM2alt = 263.797270645 differenzM2 = 0.917069793448
+I: steps = -2.41179681593 / int(steps) = 2I: steps = -2.31430456144 / int(steps) = 2I: pX = 227 pY = 6
+I: GradM1 = -0.928789189967 LangeM1 = 250.529439388 LangeM1alt = 250.107976682 differenzM1 = -0.421462705797
+I: GradM2 = -0.883733780284 LangeM2 = 263.281218472 LangeM2alt = 262.880200852 differenzM2 = -0.401017619785
+I: steps = -1.34629255029 / int(steps) = 1I: steps = 0.570129606603 / int(steps) = 0I: pX = 228 pY = 7
+I: GradM1 = -2.93018304238 LangeM1 = 251.859087587 LangeM1alt = 250.529439388 differenzM1 = -1.32964819882
+I: GradM2 = 1.12269892768 LangeM2 = 262.771764084 LangeM2alt = 263.281218472 differenzM2 = 0.509454387461
+I: steps = -3.60205148627 / int(steps) = 3I: steps = -0.677313646373 / int(steps) = 0I: pX = 228 pY = 8
+I: GradM1 = -0.939812694007 LangeM1 = 252.2855525 LangeM1alt = 251.859087587 differenzM1 = -0.426464912854
+I: GradM2 = -0.900845044179 LangeM2 = 263.180546394 LangeM2alt = 262.771764084 differenzM2 = -0.408782309188
+I: steps = -1.64628781294 / int(steps) = 1I: steps = 0.323625291604 / int(steps) = 0I: pX = 229 pY = 9
+I: GradM1 = -2.93596125967 LangeM1 = 253.617822718 LangeM1alt = 252.2855525 differenzM1 = -1.33227021802
+I: GradM2 = 1.09796068626 LangeM2 = 262.682317639 LangeM2alt = 263.180546394 differenzM2 = 0.49822875491
+I: steps = -3.90846699036 / int(steps) = 3I: steps = -0.896331026465 / int(steps) = 0I: pX = 230 pY = 10
+I: GradM1 = -2.93790658749 LangeM1 = 254.95097568 LangeM1alt = 253.617822718 differenzM1 = -1.33315296207
+I: GradM2 = 1.08323678994 LangeM2 = 262.190770242 LangeM2alt = 262.682317639 differenzM2 = 0.491547396804
+I: steps = -4.17280764313 / int(steps) = 4I: steps = -2.09992745973 / int(steps) = 2I: pX = 230 pY = 11
+I: GradM1 = -0.954321965936 LangeM1 = 255.384024559 LangeM1alt = 254.95097568 differenzM1 = -0.433048879455
+I: GradM2 = -0.928013415398 LangeM2 = 262.611880919 LangeM2alt = 262.190770242 differenzM2 = -0.42111067753
+I: steps = -1.23316538306 / int(steps) = 1I: steps = 0.931198557375 / int(steps) = 0I: pX = 231 pY = 12
+I: GradM1 = -2.94344669664 LangeM1 = 256.719691492 LangeM1alt = 255.384024559 differenzM1 = -1.3356669334
+I: GradM2 = 1.05830647102 LangeM2 = 262.131646315 LangeM2alt = 262.611880919 differenzM2 = 0.480234603994
+I: steps = -3.50366171266 / int(steps) = 3I: steps = -0.244697521534 / int(steps) = 0I: pX = 231 pY = 13
+I: GradM1 = -0.964897417647 LangeM1 = 257.157539263 LangeM1alt = 256.719691492 differenzM1 = -0.437847770895
+I: GradM2 = -0.945009079149 LangeM2 = 262.560469226 LangeM2alt = 262.131646315 differenzM2 = -0.428822910304
+I: steps = -1.57576995449 / int(steps) = 1I: steps = 0.805312566409 / int(steps) = 0I: pX = 232 pY = 14
+I: GradM1 = -2.94882761797 LangeM1 = 258.495647932 LangeM1alt = 257.157539263 differenzM1 = -1.33810866903
+I: GradM2 = 1.03328881622 LangeM2 = 262.091587045 LangeM2alt = 262.560469226 differenzM2 = 0.468882180218
+I: steps = -3.85224508556 / int(steps) = 3I: steps = -0.34278611828 / int(steps) = 0I: pX = 233 pY = 15
+I: GradM1 = -2.95060415234 LangeM1 = 259.834562751 LangeM1alt = 258.495647932 differenzM1 = -1.33891481858
+I: GradM2 = 1.01829426752 LangeM2 = 261.629509039 LangeM2alt = 262.091587045 differenzM2 = 0.462078006422
+I: steps = -4.13069414371 / int(steps) = 4I: steps = -1.4742241933 / int(steps) = 1I: pX = 233 pY = 16
+I: GradM1 = -0.978750631629 LangeM1 = 260.278696785 LangeM1alt = 259.834562751 differenzM1 = -0.444134033818
+I: GradM2 = -0.972047115059 LangeM2 = 262.070601175 LangeM2alt = 261.629509039 differenzM2 = -0.441092135546
+I: steps = -1.21819484552 / int(steps) = 1I: steps = 0.605828156763 / int(steps) = 0I: pX = 234 pY = 17
+I: GradM1 = -2.95576476356 LangeM1 = 261.619953367 LangeM1alt = 260.278696785 differenzM1 = -1.34125658266
+I: GradM2 = 0.993105216556 LangeM2 = 261.619953367 LangeM2alt = 262.070601175 differenzM2 = 0.450647807094
+I: steps = -3.50237791615 / int(steps) = 3I: steps = -0.497622083854 / int(steps) = 0I: pX = 234 pY = 18
+I: GradM1 = -0.988900746331 LangeM1 = 262.068693285 LangeM1alt = 261.619953367 differenzM1 = -0.44873991732
+I: GradM2 = -0.988900746331 LangeM2 = 262.068693285 LangeM2alt = 261.619953367 differenzM2 = -0.44873991732
+I: steps = -1.60115652318 / int(steps) = 1I: steps = 0.601156523179 / int(steps) = 0I: pX = 235 pY = 19
+I: GradM1 = -2.96077736802 LangeM1 = 263.41222447 LangeM1alt = 262.068693285 differenzM1 = -1.34353118476
+I: GradM2 = 0.967842644833 LangeM2 = 261.629509039 LangeM2alt = 262.068693285 differenzM2 = 0.439184245772
+I: steps = -3.89090915432 / int(steps) = 3I: steps = -0.474224193302 / int(steps) = 0I: pX = 235 pY = 20
+I: GradM1 = -0.998887275649 LangeM1 = 263.865496039 LangeM1alt = 263.41222447 differenzM1 = -0.453271569619
+I: GradM2 = -1.00568177501 LangeM2 = 262.085863793 LangeM2alt = 261.629509039 differenzM2 = -0.456354753743
+I: steps = 0.643200001153 / int(steps) = 0I: steps = -2.00078390504 / int(steps) = 2I: pX = 236 pY = 21
+I: GradM1 = -2.96564615352 LangeM1 = 265.211236564 LangeM1alt = 263.865496039 differenzM1 = -1.34574052519
+I: GradM2 = 0.942512084729 LangeM2 = 261.65817396 LangeM2alt = 262.085863793 differenzM2 = 0.427689832921
+I: steps = -3.29594629783 / int(steps) = 3I: steps = -0.404035648545 / int(steps) = 0I: pX = 237 pY = 22
+I: GradM1 = -2.96720854124 LangeM1 = 266.557686064 LangeM1alt = 265.211236564 differenzM1 = -1.34644950002
+I: GradM2 = 0.92718347566 LangeM2 = 261.237439889 LangeM2alt = 261.65817396 differenzM2 = 0.420734070383
+I: steps = -3.59284467699 / int(steps) = 3I: steps = -1.43423951039 / int(steps) = 1I: pX = 237 pY = 23
+I: GradM1 = -1.01187994209 LangeM1 = 267.016853401 LangeM1alt = 266.557686064 differenzM1 = -0.459167336293
+I: GradM2 = -1.03245091715 LangeM2 = 261.705941851 LangeM2alt = 261.237439889 differenzM2 = -0.468501961311
+I: steps = -1.71715572376 / int(steps) = 1I: steps = 0.712928175331 / int(steps) = 0I: pX = 238 pY = 24
+I: GradM1 = -2.97187958795 LangeM1 = 268.365422512 LangeM1alt = 267.016853401 differenzM1 = -1.34856911124
+I: GradM2 = 0.90171197414 LangeM2 = 261.296766149 LangeM2alt = 261.705941851 differenzM2 = 0.40917570163
+I: steps = -4.01924415481 / int(steps) = 4I: steps = -0.288974018158 / int(steps) = 0I: pX = 238 pY = 25
+I: GradM1 = -1.02147066813 LangeM1 = 268.828941894 LangeM1alt = 268.365422512 differenzM1 = -0.463519382366
+I: GradM2 = -1.04905412104 LangeM2 = 261.772802254 LangeM2alt = 261.296766149 differenzM2 = -0.476036105025
+I: steps = -1.15421156384 / int(steps) = 1I: steps = 0.876641671887 / int(steps) = 0I: pX = 239 pY = 26
+I: GradM1 = -2.97641686676 LangeM1 = 270.179569916 LangeM1alt = 268.828941894 differenzM1 = -1.35062802173
+I: GradM2 = 0.876186902949 LangeM2 = 261.37520923 LangeM2alt = 261.772802254 differenzM2 = 0.397593024219
+I: steps = -3.4613414158 / int(steps) = 3I: steps = -0.0968993313888 / int(steps) = 0I: pX = 239 pY = 27
+I: GradM1 = -1.03090869793 LangeM1 = 270.647372054 LangeM1alt = 270.179569916 differenzM1 = -0.467802138477
+I: GradM2 = -1.06557152645 LangeM2 = 261.858740545 LangeM2alt = 261.37520923 differenzM2 = -0.483531315406
+I: steps = -1.60679552462 / int(steps) = 1I: steps = 1.08706903134 / int(steps) = 1I: pX = 240 pY = 28
+I: GradM1 = -2.98082415492 LangeM1 = 272.0 LangeM1alt = 270.647372054 differenzM1 = -1.35262794551
+I: GradM2 = 0.850613949331 LangeM2 = 261.472751926 LangeM2alt = 261.858740545 differenzM2 = 0.385988618888
+I: steps = -3.91882236342 / int(steps) = 3I: steps = -0.85805757903 / int(steps) = 0I: pX = 241 pY = 29
+I: GradM1 = -2.98219787369 LangeM1 = 273.353251307 LangeM1alt = 272.0 differenzM1 = -1.3532513068
+I: GradM2 = 0.834990509145 LangeM2 = 261.093852858 LangeM2alt = 261.472751926 differenzM2 = 0.378899068917
+I: steps = -4.23237555641 / int(steps) = 4I: steps = -1.78582481141 / int(steps) = 1I: pX = 241 pY = 30
+I: GradM1 = -1.04310416149 LangeM1 = 273.82658746 LangeM1alt = 273.353251307 differenzM1 = -0.473336153217
+I: GradM2 = -1.09199136074 LangeM2 = 261.589372873 LangeM2alt = 261.093852858 differenzM2 = -0.495520015279
+I: steps = -1.39138018029 / int(steps) = 1I: steps = 0.42749892274 / int(steps) = 0I: pX = 242 pY = 31
+I: GradM1 = -2.98642759807 LangeM1 = 275.181758116 LangeM1alt = 273.82658746 differenzM1 = -1.35517065632
+I: GradM2 = 0.809308491841 LangeM2 = 261.2221277 LangeM2alt = 261.589372873 differenzM2 = 0.367245173049
+I: steps = -3.70963306703 / int(steps) = 3I: steps = -0.471732734861 / int(steps) = 0I: pX = 242 pY = 32
+I: GradM1 = -1.05217388101 LangeM1 = 275.659209895 LangeM1alt = 275.181758116 differenzM1 = -0.477451778776
+I: GradM2 = -1.10829641626 LangeM2 = 261.725046566 LangeM2alt = 261.2221277 differenzM2 = -0.502918866268
+I: steps = -1.87871515704 / int(steps) = 1I: steps = 0.759707727646 / int(steps) = 0I: pX = 241 pY = 32
+I: GradM1 = 1.93372362341 LangeM1 = 274.781731562 LangeM1alt = 275.659209895 differenzM1 = 0.877478333501
+I: GradM2 = -1.90399008892 LangeM2 = 262.58903252 LangeM2alt = 261.725046566 differenzM2 = -0.863985954353
+I: steps = 1.26986664675 / int(steps) = 1I: steps = 2.87525227089 / int(steps) = 2I: pX = 241 pY = 34
+I: GradM1 = -2.1295546871 LangeM1 = 275.748073429 LangeM1alt = 274.781731562 differenzM1 = -0.966341867737
+I: GradM2 = -2.22806460245 LangeM2 = 263.600075873 LangeM2alt = 262.58903252 differenzM2 = -1.01104335212
+I: steps = -2.09630522781 / int(steps) = 2I: steps = 3.35087960694 / int(steps) = 3I: pX = 240 pY = 34
+I: GradM1 = 1.92508119796 LangeM1 = 274.874516825 LangeM1alt = 275.748073429 differenzM1 = 0.873556603948
+I: GradM2 = -1.89882373397 LangeM2 = 264.461717456 LangeM2alt = 263.600075873 differenzM2 = -0.861641583898
+I: steps = 2.04267388104 / int(steps) = 2I: steps = 2.4606837558 / int(steps) = 2I: pX = 239 pY = 35
+I: GradM1 = 0.842393302308 LangeM1 = 274.492258543 LangeM1alt = 274.874516825 differenzM1 = 0.382258282473
+I: GradM2 = -3.01702663689 LangeM2 = 265.830773237 LangeM2alt = 264.461717456 differenzM2 = -1.36905578099
+I: steps = 3.81293557456 / int(steps) = 3I: steps = 0.978666439159 / int(steps) = 0I: pX = 239 pY = 37
+I: GradM1 = -2.17979179836 LangeM1 = 275.481396831 LangeM1alt = 274.492258543 differenzM1 = -0.989138288142
+I: GradM2 = -2.25054775741 LangeM2 = 266.852018917 LangeM2alt = 265.830773237 differenzM2 = -1.02124567944
+I: steps = -1.4433244479 / int(steps) = 1I: steps = 3.31354419391 / int(steps) = 3I: pX = 238 pY = 37
+I: GradM1 = 1.91090084396 LangeM1 = 274.614274939 LangeM1alt = 275.481396831 differenzM1 = 0.867121892571
+I: GradM2 = -1.89222182802 LangeM2 = 267.710664711 LangeM2alt = 266.852018917 differenzM2 = -0.858645794138
+I: steps = 1.67989871205 / int(steps) = 1I: steps = 2.41601289171 / int(steps) = 2I: pX = 238 pY = 39
+I: GradM1 = -2.2108100049 LangeM1 = 275.61748856 LangeM1alt = 274.614274939 differenzM1 = -1.00321362128
+I: GradM2 = -2.26760587553 LangeM2 = 268.739650964 LangeM2alt = 267.710664711 differenzM2 = -1.02898625254
+I: steps = -1.77655684895 / int(steps) = 1I: steps = 2.93557497564 / int(steps) = 2I: pX = 237 pY = 39
+I: GradM1 = 1.90193354887 LangeM1 = 274.754435815 LangeM1alt = 275.61748856 differenzM1 = 0.863052744814
+I: GradM2 = -1.88714725461 LangeM2 = 269.595994036 LangeM2alt = 268.739650964 differenzM2 = -0.85634307199
+I: steps = 1.3367026498 / int(steps) = 1I: steps = 3.03240525854 / int(steps) = 3I: pX = 237 pY = 41
+I: GradM1 = -2.24165167824 LangeM1 = 275.771644663 LangeM1alt = 274.754435815 differenzM1 = -1.01720884779
+I: GradM2 = -2.28438061868 LangeM2 = 270.632592272 LangeM2alt = 269.595994036 differenzM2 = -1.03659823673
+I: steps = -2.15402143713 / int(steps) = 2I: steps = 2.57060594596 / int(steps) = 2I: pX = 236 pY = 41
+I: GradM1 = 1.89285087893 LangeM1 = 274.91271342 LangeM1alt = 275.771644663 differenzM1 = 0.858931242657
+I: GradM2 = -1.88210639834 LangeM2 = 271.486647922 LangeM2alt = 270.632592272 differenzM2 = -0.854055649886
+I: steps = 1.94914620612 / int(steps) = 1I: steps = 2.66183527746 / int(steps) = 2I: pX = 235 pY = 42
+I: GradM1 = 0.753982667802 LangeM1 = 274.570573806 LangeM1alt = 274.91271342 differenzM1 = 0.342139614381
+I: GradM2 = -3.02819216493 LangeM2 = 272.860770357 LangeM2alt = 271.486647922 differenzM2 = -1.3741224352
+I: steps = 4.02649323849 / int(steps) = 4I: steps = 1.7869047259 / int(steps) = 1I: pX = 235 pY = 44
+I: GradM1 = -2.29112400057 LangeM1 = 275.610232031 LangeM1alt = 274.570573806 differenzM1 = -1.03965822495
+I: GradM2 = -2.3054260056 LangeM2 = 273.906918496 LangeM2alt = 272.860770357 differenzM2 = -1.04614813871
+I: steps = -1.75878860807 / int(steps) = 1I: steps = 2.58807768916 / int(steps) = 2I: pX = 234 pY = 44
+I: GradM1 = 1.87792146644 LangeM1 = 274.758075405 LangeM1alt = 275.610232031 differenzM1 = 0.852156626143
+I: GradM2 = -1.87571836058 LangeM2 = 274.758075405 LangeM2alt = 273.906918496 differenzM2 = -0.851156908481
+I: steps = 1.32779079909 / int(steps) = 1I: steps = 2.67220920091 / int(steps) = 2I: pX = 234 pY = 46
+I: GradM1 = -2.32152712602 LangeM1 = 275.811529853 LangeM1alt = 274.758075405 differenzM1 = -1.05345444874
+I: GradM2 = -2.32152712602 LangeM2 = 275.811529853 LangeM2alt = 274.758075405 differenzM2 = -1.05345444874
+I: steps = -2.25168378537 / int(steps) = 2I: steps = 3.25168378537 / int(steps) = 3I: pX = 233 pY = 46
+I: GradM1 = 1.86853197182 LangeM1 = 274.963633959 LangeM1alt = 275.811529853 differenzM1 = 0.847895894157
+I: GradM2 = -1.87077084848 LangeM2 = 276.660441697 LangeM2alt = 275.811529853 differenzM2 = -0.84891184377
+I: steps = 1.82446284998 / int(steps) = 1I: steps = 2.33031806147 / int(steps) = 2I: pX = 233 pY = 48
+I: GradM1 = -2.35173357265 LangeM1 = 276.030795383 LangeM1alt = 274.963633959 differenzM1 = -1.0671614243
+I: GradM2 = -2.33736522568 LangeM2 = 277.721083103 LangeM2alt = 276.660441697 differenzM2 = -1.06064140614
+I: steps = -1.78857445296 / int(steps) = 1I: steps = 2.92739053444 / int(steps) = 2I: pX = 232 pY = 48
+I: GradM1 = 1.85903497091 LangeM1 = 275.187209005 LangeM1alt = 276.030795383 differenzM1 = 0.843586378344
+I: GradM2 = -1.86585784997 LangeM2 = 278.567765544 LangeM2alt = 277.721083103 differenzM2 = -0.846682440509
+I: steps = 1.27701995915 / int(steps) = 1I: steps = 3.00056592329 / int(steps) = 3I: pX = 231 pY = 49
+I: GradM1 = 0.665037362628 LangeM1 = 274.88543068 LangeM1alt = 275.187209005 differenzM1 = 0.301778325305
+I: GradM2 = -3.03818710026 LangeM2 = 279.946423446 LangeM2alt = 278.567765544 differenzM2 = -1.37865790195
+I: steps = 3.37632936802 / int(steps) = 3I: steps = 1.01595036207 / int(steps) = 1I: pX = 231 pY = 51
+I: GradM1 = -2.40031346118 LangeM1 = 275.974636516 LangeM1alt = 274.88543068 differenzM1 = -1.08920583598
+I: GradM2 = -2.35708622677 LangeM2 = 281.016013779 LangeM2alt = 279.946423446 differenzM2 = -1.06959033294
+I: steps = -2.6510645948 / int(steps) = 2I: steps = 2.99531406444 / int(steps) = 2I: pX = 230 pY = 51
+I: GradM1 = 1.84339515375 LangeM1 = 275.138147119 LangeM1alt = 275.974636516 differenzM1 = 0.836489396888
+I: GradM2 = -1.85968312438 LangeM2 = 281.859894274 LangeM2alt = 281.016013779 differenzM2 = -0.843880495159
+I: steps = 1.3971522427 / int(steps) = 1I: steps = 3.06162864708 / int(steps) = 3I: pX = 230 pY = 53
+I: GradM1 = -2.43002852427 LangeM1 = 276.240836952 LangeM1alt = 275.138147119 differenzM1 = -1.10268983324
+I: GradM2 = -2.37230077389 LangeM2 = 282.936388611 LangeM2alt = 281.859894274 differenzM2 = -1.07649433685
+I: steps = -2.30287945094 / int(steps) = 2I: steps = 2.69751839585 / int(steps) = 2I: pX = 229 pY = 53
+I: GradM1 = 1.83361165193 LangeM1 = 275.408787078 LangeM1alt = 276.240836952 differenzM1 = 0.832049873698
+I: GradM2 = -1.85486402303 LangeM2 = 283.778082311 LangeM2alt = 282.936388611 differenzM2 = -0.841693700223
+I: steps = 1.73446682899 / int(steps) = 1I: steps = 2.75847842144 / int(steps) = 2I: pX = 228 pY = 54
+I: GradM1 = 0.600421652048 LangeM1 = 275.136329844 LangeM1alt = 275.408787078 differenzM1 = 0.272457234456
+I: GradM2 = -3.04449906128 LangeM2 = 285.159604432 LangeM2alt = 283.778082311 differenzM2 = -1.38152212152
+I: steps = 4.14125515619 / int(steps) = 4I: steps = 1.40160199793 / int(steps) = 1I: pX = 228 pY = 56
+I: GradM1 = -2.47790830699 LangeM1 = 276.260746397 LangeM1alt = 275.136329844 differenzM1 = -1.12441655336
+I: GradM2 = -2.39114669452 LangeM2 = 286.244650605 LangeM2alt = 285.159604432 differenzM2 = -1.08504617271
+I: steps = -2.35162945428 / int(steps) = 2I: steps = 2.79808481677 / int(steps) = 2I: pX = 227 pY = 56
+I: GradM1 = 1.81747715579 LangeM1 = 275.436017979 LangeM1alt = 276.260746397 differenzM1 = 0.824728418545
+I: GradM2 = -1.84884169455 LangeM2 = 287.083611514 LangeM2alt = 286.244650605 differenzM2 = -0.8389609091
+I: steps = 1.66778960771 / int(steps) = 1I: steps = 2.85235336628 / int(steps) = 2I: pX = 227 pY = 58
+I: GradM1 = -2.50709584871 LangeM1 = 276.573679153 LangeM1alt = 275.436017979 differenzM1 = -1.13766117382
+I: GradM2 = -2.40577104876 LangeM2 = 288.175293875 LangeM2alt = 287.083611514 differenzM2 = -1.09168236096
+I: steps = -2.11787244642 / int(steps) = 2I: steps = 3.52543230935 / int(steps) = 3I: pX = 196 pY = 6
+I: GradM1 = 118.442431546 LangeM1 = 222.827287377 LangeM1alt = 276.573679153 differenzM1 = 53.7463917751
+I: GradM2 = -8.26255646775 LangeM2 = 291.924647812 LangeM2alt = 288.175293875 differenzM2 = -3.74935393663
+I: steps = 131.484829271 / int(steps) = 131I: steps = 9.70605060684 / int(steps) = 9I: pX = 197 pY = 6
+I: GradM1 = -1.93952486699 LangeM1 = 223.707398179 LangeM1alt = 222.827287377 differenzM1 = -0.880110801494
+I: GradM2 = 2.0528184022 LangeM2 = 290.993127067 LangeM2alt = 291.924647812 differenzM2 = 0.931520745123
+I: steps = -1.57485872893 / int(steps) = 1I: steps = -1.67019835888 / int(steps) = 1I: pX = 198 pY = 6
+I: GradM1 = -1.94173661137 LangeM1 = 224.588512618 LangeM1alt = 223.707398179 differenzM1 = -0.881114439116
+I: GradM2 = 2.05181349533 LangeM2 = 290.062062325 LangeM2alt = 290.993127067 differenzM2 = 0.931064742003
+I: steps = -2.85465150152 / int(steps) = 2I: steps = -2.82768348263 / int(steps) = 2I: pX = 199 pY = 6
+I: GradM1 = -1.943922426 LangeM1 = 225.470618928 LangeM1alt = 224.588512618 differenzM1 = -0.882106310421
+I: GradM2 = 2.05079888042 LangeM2 = 289.131457991 LangeM2alt = 290.062062325 differenzM2 = 0.930604333602
+I: steps = -3.1333169242 / int(steps) = 3I: steps = -2.9875972893 / int(steps) = 2I: pX = 200 pY = 6
+I: GradM1 = -1.94608268609 LangeM1 = 226.353705514 LangeM1alt = 225.470618928 differenzM1 = -0.883086585682
+I: GradM2 = 2.04977443691 LangeM2 = 288.201318526 LangeM2alt = 289.131457991 differenzM2 = 0.930139465214
+I: steps = -2.41084407632 / int(steps) = 2I: steps = -3.14991138496 / int(steps) = 3I: pX = 201 pY = 6
+I: GradM1 = -1.94821776072 LangeM1 = 227.237760947 LangeM1alt = 226.353705514 differenzM1 = -0.884055432367
+I: GradM2 = 2.04874004245 LangeM2 = 287.271648444 LangeM2alt = 288.201318526 differenzM2 = 0.929670081319
+I: steps = -2.68722190126 / int(steps) = 2I: steps = -2.31459778576 / int(steps) = 2I: pX = 202 pY = 6
+I: GradM1 = -1.95032801286 LangeM1 = 228.122773962 LangeM1alt = 227.237760947 differenzM1 = -0.885013015195
+I: GradM2 = 2.04769557286 LangeM2 = 286.342452319 LangeM2alt = 287.271648444 differenzM2 = 0.929196125567
+I: steps = -2.96243920444 / int(steps) = 2I: steps = -2.48162891116 / int(steps) = 2I: pX = 203 pY = 6
+I: GradM1 = -1.95241379956 LangeM1 = 229.008733458 LangeM1alt = 228.122773962 differenzM1 = -0.885959496177
+I: GradM2 = 2.04664090211 LangeM2 = 285.413734778 LangeM2alt = 286.342452319 differenzM2 = 0.928717540769
+I: steps = -3.23648465123 / int(steps) = 3I: steps = -2.65097757734 / int(steps) = 2I: pX = 204 pY = 6
+I: GradM1 = -1.95447547197 LangeM1 = 229.895628493 LangeM1alt = 229.008733458 differenzM1 = -0.886895034665
+I: GradM2 = 2.04557590228 LangeM2 = 284.485500509 LangeM2alt = 285.413734778 differenzM2 = 0.928234268876
+I: steps = -2.50934676488 / int(steps) = 2I: steps = -2.82261699064 / int(steps) = 2I: pX = 205 pY = 6
+I: GradM1 = -1.95651337552 LangeM1 = 230.78344828 LangeM1alt = 229.895628493 differenzM1 = -0.8878197874
+I: GradM2 = 2.04450044353 LangeM2 = 283.557754258 LangeM2alt = 284.485500509 differenzM2 = 0.927746250971
+I: steps = -2.78101392436 / int(steps) = 2I: steps = -2.99652074122 / int(steps) = 2I: pX = 206 pY = 6
+I: GradM1 = -1.95852784996 LangeM1 = 231.672182189 LangeM1alt = 230.78344828 differenzM1 = -0.888733908556
+I: GradM2 = 2.04341439407 LangeM2 = 282.630500831 LangeM2alt = 283.557754258 differenzM2 = 0.92725342725
+I: steps = -3.05147436221 / int(steps) = 3I: steps = -3.17266279673 / int(steps) = 3I: pX = 207 pY = 6
+I: GradM1 = -1.96051922949 LangeM1 = 232.561819738 LangeM1alt = 231.672182189 differenzM1 = -0.889637549783
+I: GradM2 = 2.04231762012 LangeM2 = 281.703745094 LangeM2alt = 282.630500831 differenzM2 = 0.926755737006
+I: steps = -2.32071616234 / int(steps) = 2I: steps = -2.35101749616 / int(steps) = 2I: pX = 208 pY = 6
+I: GradM1 = -1.96248784283 LangeM1 = 233.452350599 LangeM1alt = 232.561819738 differenzM1 = -0.890530860253
+I: GradM2 = 2.04120998587 LangeM2 = 280.777491975 LangeM2alt = 281.703745094 differenzM2 = 0.926253118619
+I: steps = -2.58872725776 / int(steps) = 2I: steps = -2.53155954376 / int(steps) = 2I: pX = 209 pY = 6
+I: GradM1 = -1.96443401337 LangeM1 = 234.343764585 LangeM1alt = 233.452350599 differenzM1 = -0.891413986703
+I: GradM2 = 2.04009135349 LangeM2 = 279.851746466 LangeM2alt = 280.777491975 differenzM2 = 0.925745509533
+I: steps = -2.8554954283 / int(steps) = 2I: steps = -2.71426400306 / int(steps) = 2I: pX = 210 pY = 6
+I: GradM1 = -1.96635805919 LangeM1 = 235.236051659 LangeM1alt = 234.343764585 differenzM1 = -0.892287073476
+I: GradM2 = 2.03896158302 LangeM2 = 278.92651362 LangeM2alt = 279.851746466 differenzM2 = 0.925232846247
+I: steps = -3.12100829832 / int(steps) = 3I: steps = -2.89910629105 / int(steps) = 2I: pX = 211 pY = 6
+I: GradM1 = -1.96826029321 LangeM1 = 236.129201921 LangeM1alt = 235.236051659 differenzM1 = -0.893150262567
+I: GradM2 = 2.0378205324 LangeM2 = 278.001798555 LangeM2alt = 278.92651362 differenzM2 = 0.924715064294
+I: steps = -2.38525333433 / int(steps) = 2I: steps = -3.08606217239 / int(steps) = 3I: pX = 212 pY = 6
+I: GradM1 = -1.97014102325 LangeM1 = 237.023205615 LangeM1alt = 236.129201921 differenzM1 = -0.894003693657
+I: GradM2 = 2.03666805741 LangeM2 = 277.077606457 LangeM2alt = 278.001798555 differenzM2 = 0.924192098225
+I: steps = -2.64821784256 / int(steps) = 2I: steps = -2.27510775377 / int(steps) = 2I: pX = 213 pY = 6
+I: GradM1 = -1.97200055212 LangeM1 = 237.918053119 LangeM1alt = 237.023205615 differenzM1 = -0.894847504158
+I: GradM2 = 2.0355040116 LangeM2 = 276.153942576 LangeM2alt = 277.077606457 differenzM2 = 0.923663881594
+I: steps = -2.90988896655 / int(steps) = 2I: steps = -2.46621947835 / int(steps) = 2I: pX = 214 pY = 6
+I: GradM1 = -1.97383917775 LangeM1 = 238.813734948 LangeM1alt = 237.918053119 differenzM1 = -0.895681829254
+I: GradM2 = 2.03432824631 LangeM2 = 275.230812229 LangeM2alt = 276.153942576 differenzM2 = 0.923130346941
+I: steps = -3.17025368467 / int(steps) = 3I: steps = -2.65937412029 / int(steps) = 2I: pX = 215 pY = 6
+I: GradM1 = -1.97565719319 LangeM1 = 239.71024175 LangeM1alt = 238.813734948 differenzM1 = -0.896506801936
+I: GradM2 = 2.0331406106 LangeM2 = 274.308220803 LangeM2alt = 275.230812229 differenzM2 = 0.922591425769
+I: steps = -2.42929880756 / int(steps) = 2I: steps = -2.8545487794 / int(steps) = 2I: pX = 216 pY = 6
+I: GradM1 = -1.97745488679 LangeM1 = 240.607564303 LangeM1alt = 239.71024175 differenzM1 = -0.897322553043
+I: GradM2 = 2.03194095122 LangeM2 = 273.386173754 LangeM2alt = 274.308220803 differenzM2 = 0.922047048534
+I: steps = -2.68701097558 / int(steps) = 2I: steps = -3.05172087583 / int(steps) = 3I: pX = 217 pY = 6
+I: GradM1 = -1.97923254222 LangeM1 = 241.505693515 LangeM1alt = 240.607564303 differenzM1 = -0.898129211297
+I: GradM2 = 2.03072911254 LangeM2 = 272.46467661 LangeM2alt = 273.386173754 differenzM2 = 0.921497144622
+I: steps = -2.94337665618 / int(steps) = 2I: steps = -2.25086814497 / int(steps) = 2I: pX = 218 pY = 6
+I: GradM1 = -1.98099043857 LangeM1 = 242.404620418 LangeM1alt = 241.505693515 differenzM1 = -0.898926903345
+I: GradM2 = 2.02950493655 LangeM2 = 271.543734967 LangeM2alt = 272.46467661 differenzM2 = 0.920941642332
+I: steps = -3.19838214124 / int(steps) = 3I: steps = -2.45196863227 / int(steps) = 2I: pX = 219 pY = 6
+I: GradM1 = -1.98272885042 LangeM1 = 243.304336172 LangeM1alt = 242.404620418 differenzM1 = -0.899715753788
+I: GradM2 = 2.02826826282 LangeM2 = 270.623354498 LangeM2alt = 271.543734967 differenzM2 = 0.920380468854
+I: steps = -2.45201354437 / int(steps) = 2I: steps = -2.65500068829 / int(steps) = 2I: pX = 220 pY = 6
+I: GradM1 = -1.98444804796 LangeM1 = 244.204832057 LangeM1alt = 243.304336172 differenzM1 = -0.900495885226
+I: GradM2 = 2.0270189284 LangeM2 = 269.703540948 LangeM2alt = 270.623354498 differenzM2 = 0.919813550257
+I: steps = -2.70425679814 / int(steps) = 2I: steps = -2.85994296381 / int(steps) = 2I: pX = 221 pY = 6
+I: GradM1 = -1.98614829701 LangeM1 = 245.106099475 LangeM1alt = 244.204832057 differenzM1 = -0.901267418283
+I: GradM2 = 2.02575676784 LangeM2 = 268.784300137 LangeM2alt = 269.703540948 differenzM2 = 0.919240811459
+I: steps = -2.95509765129 / int(steps) = 2I: steps = -3.06677440493 / int(steps) = 3I: pX = 222 pY = 6
+I: GradM1 = -1.98782985912 LangeM1 = 246.008129947 LangeM1alt = 245.106099475 differenzM1 = -0.90203047165
+I: GradM2 = 2.02448161312 LangeM2 = 267.865637961 LangeM2alt = 268.784300137 differenzM2 = 0.918662176219
+I: steps = -3.20452166587 / int(steps) = 3I: steps = -2.2754742484 / int(steps) = 2I: pX = 223 pY = 6
+I: GradM1 = -1.98949299167 LangeM1 = 246.910915109 LangeM1alt = 246.008129947 differenzM1 = -0.902785162114
+I: GradM2 = 2.02319329362 LangeM2 = 266.947560393 LangeM2alt = 267.865637961 differenzM2 = 0.918077567104
+I: steps = -2.45251421434 / int(steps) = 2I: steps = -2.48602201692 / int(steps) = 2I: pX = 224 pY = 6
+I: GradM1 = -1.9911379479 LangeM1 = 247.814446714 LangeM1alt = 246.910915109 differenzM1 = -0.903531604592
+I: GradM2 = 2.02189163602 LangeM2 = 266.030073488 LangeM2alt = 266.947560393 differenzM2 = 0.91748690548
+I: steps = -2.69906047658 / int(steps) = 2I: steps = -2.69839751459 / int(steps) = 2I: pX = 225 pY = 6
+I: GradM1 = -1.99276497702 LangeM1 = 248.718716626 LangeM1alt = 247.814446714 differenzM1 = -0.904269912165
+I: GradM2 = 2.02057646435 LangeM2 = 265.113183376 LangeM2alt = 266.030073488 differenzM2 = 0.916890111483
+I: steps = -2.94414543697 / int(steps) = 2I: steps = -2.91258082239 / int(steps) = 2I: pX = 226 pY = 6
+I: GradM1 = -1.99437432424 LangeM1 = 249.623716822 LangeM1alt = 248.718716626 differenzM1 = -0.90500019611
+I: GradM2 = 2.01924759984 LangeM2 = 264.196896272 LangeM2alt = 265.113183376 differenzM2 = 0.916287104001
+I: steps = -3.18775388123 / int(steps) = 3I: steps = -3.12855229376 / int(steps) = 3I: pX = 227 pY = 7
+I: GradM1 = -2.9319770176 LangeM1 = 250.954179085 LangeM1alt = 249.623716822 differenzM1 = -1.33046226261
+I: GradM2 = 1.12715762345 LangeM2 = 263.685418634 LangeM2alt = 264.196896272 differenzM2 = 0.511477638814
+I: steps = -3.38630453553 / int(steps) = 3I: steps = -1.44015124063 / int(steps) = 1I: pX = 195 pY = 7
+I: GradM1 = 62.8650072026 LangeM1 = 222.427516283 LangeM1alt = 250.954179085 differenzM1 = 28.5266628012
+I: GradM2 = -65.0863043711 LangeM2 = 293.220053884 LangeM2alt = 263.685418634 differenzM2 = -29.5346352508
+I: steps = 71.8779647272 / int(steps) = 71I: steps = 69.4637034673 / int(steps) = 69I: pX = 196 pY = 7
+I: GradM1 = -1.93312843807 LangeM1 = 223.304724536 LangeM1alt = 222.427516283 differenzM1 = -0.877208252384
+I: GradM2 = 2.0512599941 LangeM2 = 292.289240308 LangeM2alt = 293.220053884 differenzM2 = 0.930813576156
+I: steps = -1.40121304399 / int(steps) = 1I: steps = -1.68421701943 / int(steps) = 1I: pX = 195 pY = 7
+I: GradM1 = 1.93312843807 LangeM1 = 222.427516283 LangeM1alt = 223.304724536 differenzM1 = 0.877208252384
+I: GradM2 = -2.0512599941 LangeM2 = 293.220053884 LangeM2alt = 292.289240308 differenzM2 = -0.930813576156
+I: steps = 1.87796472724 / int(steps) = 1I: steps = 1.46370346732 / int(steps) = 1I: pX = 195 pY = 9
+I: GradM1 = -2.13539528598 LangeM1 = 223.396508478 LangeM1alt = 222.427516283 differenzM1 = -0.968992194244
+I: GradM2 = -1.62133805166 LangeM2 = 293.955778987 LangeM2alt = 293.220053884 differenzM2 = -0.735725102798
+I: steps = -1.90895796155 / int(steps) = 1I: steps = 2.67945145131 / int(steps) = 2I: pX = 194 pY = 9
+I: GradM1 = 1.92242764842 LangeM1 = 222.524155992 LangeM1alt = 223.396508478 differenzM1 = 0.872352485531
+I: GradM2 = -2.04714051243 LangeM2 = 294.884723239 LangeM2alt = 293.955778987 differenzM2 = -0.92894425219
+I: steps = 2.95405202068 / int(steps) = 2I: steps = 1.22707275891 / int(steps) = 1I: pX = 194 pY = 11
+I: GradM1 = -2.17391195517 LangeM1 = 223.510626146 LangeM1alt = 222.524155992 differenzM1 = -0.986470153496
+I: GradM2 = -1.64202614475 LangeM2 = 295.629836113 LangeM2alt = 294.884723239 differenzM2 = -0.745112873225
+I: steps = -2.18838496906 / int(steps) = 2I: steps = 2.77852551485 / int(steps) = 2I: pX = 193 pY = 11
+I: GradM1 = 1.91154414621 LangeM1 = 222.643212338 LangeM1alt = 223.510626146 differenzM1 = 0.867413808017
+I: GradM2 = -2.04301550907 LangeM2 = 296.556908535 LangeM2alt = 295.629836113 differenzM2 = -0.927072422613
+I: steps = 3.04854274715 / int(steps) = 3I: steps = 1.93555297118 / int(steps) = 1I: pX = 192 pY = 12
+I: GradM1 = 0.802396131518 LangeM1 = 222.279103831 LangeM1alt = 222.643212338 differenzM1 = 0.36410850639
+I: GradM2 = -2.86951512298 LangeM2 = 297.859027058 LangeM2alt = 296.556908535 differenzM2 = -1.30211852283
+I: steps = 3.2368928838 / int(steps) = 3I: steps = 1.82710422842 / int(steps) = 1I: pX = 192 pY = 14
+I: GradM1 = -2.23551674649 LangeM1 = 223.293528791 LangeM1alt = 222.279103831 differenzM1 = -1.01442495994
+I: GradM2 = -1.6699504287 LangeM2 = 298.616811315 LangeM2alt = 297.859027058 differenzM2 = -0.757784257
+I: steps = -1.65680326767 / int(steps) = 1I: steps = 2.09239336014 / int(steps) = 2I: pX = 191 pY = 14
+I: GradM1 = 1.89359485173 LangeM1 = 222.434259951 LangeM1alt = 223.293528791 differenzM1 = 0.859268840026
+I: GradM2 = -2.03735694649 LangeM2 = 299.541316015 LangeM2alt = 298.616811315 differenzM2 = -0.9245046999
+I: steps = 2.35612330068 / int(steps) = 2I: steps = 1.44719101202 / int(steps) = 1I: pX = 191 pY = 16
+I: GradM1 = -2.27341239264 LangeM1 = 223.465881065 LangeM1alt = 222.434259951 differenzM1 = -1.03162111353
+I: GradM2 = -1.68994876476 LangeM2 = 300.308175047 LangeM2alt = 299.541316015 differenzM2 = -0.766859031898
+I: steps = -2.07882275757 / int(steps) = 2I: steps = 2.23384415041 / int(steps) = 2I: pX = 190 pY = 16
+I: GradM1 = 1.88222922291 LangeM1 = 222.61176968 LangeM1alt = 223.465881065 differenzM1 = 0.854111384787
+I: GradM2 = -2.03323326558 LangeM2 = 301.230808517 LangeM2alt = 300.308175047 differenzM2 = -0.922633470422
+I: steps = 2.49299222328 / int(steps) = 2I: steps = 2.01254304566 / int(steps) = 2I: pX = 190 pY = 18
+I: GradM1 = -2.31102154559 LangeM1 = 223.660456943 LangeM1alt = 222.61176968 differenzM1 = -1.04868726325
+I: GradM2 = -1.70968291752 LangeM2 = 302.006622444 LangeM2alt = 301.230808517 differenzM2 = -0.775813926623
+I: steps = -2.55525867166 / int(steps) = 2I: steps = 2.39263990942 / int(steps) = 2I: pX = 189 pY = 18
+I: GradM1 = 1.87069483743 LangeM1 = 222.811579591 LangeM1alt = 223.660456943 differenzM1 = 0.848877351741
+I: GradM2 = -2.02910815873 LangeM2 = 302.927384038 LangeM2alt = 302.006622444 differenzM2 = -0.920761593879
+I: steps = 2.64720453022 / int(steps) = 2I: steps = 1.52329114771 / int(steps) = 1I: pX = 188 pY = 19
+I: GradM1 = 0.692826974076 LangeM1 = 222.497190994 LangeM1alt = 222.811579591 differenzM1 = 0.314388597862
+I: GradM2 = -2.8891080477 LangeM2 = 304.238393369 LangeM2alt = 302.927384038 differenzM2 = -1.31100933159
+I: steps = 3.85732458322 / int(steps) = 3I: steps = 1.29309889669 / int(steps) = 1I: pX = 188 pY = 21
+I: GradM1 = -2.37135071148 LangeM1 = 223.573254214 LangeM1alt = 222.497190994 differenzM1 = -1.07606322086
+I: GradM2 = -1.73617411852 LangeM2 = 305.02622838 LangeM2alt = 304.238393369 differenzM2 = -0.787835011036
+I: steps = -2.34173522718 / int(steps) = 2I: steps = 2.78640693713 / int(steps) = 2I: pX = 187 pY = 21
+I: GradM1 = 1.85163880015 LangeM1 = 222.733024044 LangeM1alt = 223.573254214 differenzM1 = 0.84023016988
+I: GradM2 = -2.02348738731 LangeM2 = 305.9444394 LangeM2alt = 305.02622838 differenzM2 = -0.918211019913
+I: steps = 3.03472625637 / int(steps) = 3I: steps = 1.71564121743 / int(steps) = 1I: pX = 187 pY = 23
+I: GradM1 = -2.40823643745 LangeM1 = 223.825825141 LangeM1alt = 222.733024044 differenzM1 = -1.09280109641
+I: GradM2 = -1.75525537324 LangeM2 = 306.740933036 LangeM2alt = 305.9444394 differenzM2 = -0.796493635974
+I: steps = -1.96017704641 / int(steps) = 1I: steps = 1.98501000442 / int(steps) = 1I: pX = 186 pY = 23
+I: GradM1 = 1.83965880825 LangeM1 = 222.99103121 LangeM1alt = 223.825825141 differenzM1 = 0.834793931112
+I: GradM2 = -2.01937257697 LangeM2 = 307.657276852 LangeM2alt = 306.740933036 differenzM2 = -0.916343815686
+I: steps = 3.22875731216 / int(steps) = 3I: steps = 1.08388829609 / int(steps) = 1I: pX = 185 pY = 24
+I: GradM1 = 0.613102800563 LangeM1 = 222.712819568 LangeM1alt = 222.99103121 differenzM1 = 0.278211641617
+I: GradM2 = -2.90193983622 LangeM2 = 308.974108948 LangeM2alt = 307.657276852 differenzM2 = -1.31683209564
+I: steps = 3.45313490796 / int(steps) = 3I: steps = 0.765113630047 / int(steps) = 0I: pX = 185 pY = 26
+I: GradM1 = -2.46752997881 LangeM1 = 223.83252668 LangeM1alt = 222.712819568 differenzM1 = -1.11970711194
+I: GradM2 = -1.78077224539 LangeM2 = 309.782181541 LangeM2alt = 308.974108948 differenzM2 = -0.808072592855
+I: steps = -1.9765863464 / int(steps) = 1I: steps = 2.43177073617 / int(steps) = 2I: pX = 184 pY = 26
+I: GradM1 = 1.81983934425 LangeM1 = 223.006726356 LangeM1alt = 223.83252668 differenzM1 = 0.82580032415
+I: GradM2 = -2.01379171759 LangeM2 = 310.695992893 LangeM2alt = 309.782181541 differenzM2 = -0.913811352861
+I: steps = 2.66931708905 / int(steps) = 2I: steps = 1.04545736942 / int(steps) = 1I: pX = 184 pY = 28
+I: GradM1 = -2.5036229676 LangeM1 = 224.142811618 LangeM1alt = 223.006726356 differenzM1 = -1.13608526199
+I: GradM2 = -1.79922642452 LangeM2 = 311.512439559 LangeM2alt = 310.695992893 differenzM2 = -0.816446665626
+I: steps = -2.73634592791 / int(steps) = 2I: steps = 2.66845756073 / int(steps) = 2I: pX = 183 pY = 28
+I: GradM1 = 1.80744278783 LangeM1 = 223.32263656 LangeM1alt = 224.142811618 differenzM1 = 0.820175058196
+I: GradM2 = -2.00969265415 LangeM2 = 312.424390853 LangeM2alt = 311.512439559 differenzM2 = -0.91195129421
+I: steps = 2.90144939868 / int(steps) = 2I: steps = 1.27192383634 / int(steps) = 1I: pX = 183 pY = 30
+I: GradM1 = -2.53936986216 LangeM1 = 224.474942922 LangeM1alt = 223.32263656 differenzM1 = -1.15230636261
+I: GradM2 = -1.8174394319 LangeM2 = 313.249102154 LangeM2alt = 312.424390853 differenzM2 = -0.824711300331
+I: steps = -2.54959823272 / int(steps) = 2I: steps = 2.92082654523 / int(steps) = 2I: pX = 182 pY = 30
+I: GradM1 = 1.79490560496 LangeM1 = 223.660456943 LangeM1alt = 224.474942922 differenzM1 = 0.814485979259
+I: GradM2 = -2.00559783147 LangeM2 = 314.159195313 LangeM2alt = 313.249102154 differenzM2 = -0.910093159917
+I: steps = 3.1492685802 / int(steps) = 3I: steps = 1.44474132834 / int(steps) = 1I: pX = 182 pY = 32
+I: GradM1 = -2.57476276868 LangeM1 = 224.828823775 LangeM1alt = 223.660456943 differenzM1 = -1.16836683178
+I: GradM2 = -1.83541475308 LangeM2 = 314.992063392 LangeM2alt = 314.159195313 differenzM2 = -0.832868078621
+I: steps = -2.41610619241 / int(steps) = 2I: steps = 2.18861830585 / int(steps) = 2I: pX = 183 pY = 33
+I: GradM1 = -3.07800733875 LangeM1 = 226.225551165 LangeM1alt = 224.828823775 differenzM1 = -1.39672739031
+I: GradM2 = 1.0712357444 LangeM2 = 314.505961788 LangeM2alt = 314.992063392 differenzM2 = 0.48610160439
+I: steps = -3.83611434659 / int(steps) = 3I: steps = -1.00164363238 / int(steps) = 1I: pX = 183 pY = 34
+I: GradM1 = -1.29877009125 LangeM1 = 226.814902509 LangeM1alt = 226.225551165 differenzM1 = -0.589351343428
+I: GradM2 = -0.934797637789 LangeM2 = 314.930150986 LangeM2alt = 314.505961788 differenzM2 = -0.424189198207
+I: steps = -2.27919222576 / int(steps) = 2I: steps = 1.03702040961 / int(steps) = 1I: pX = 184 pY = 35
+I: GradM1 = -3.08018960341 LangeM1 = 228.212620159 LangeM1alt = 226.814902509 differenzM1 = -1.39771765073
+I: GradM2 = 1.05042198402 LangeM2 = 314.453494177 LangeM2alt = 314.930150986 differenzM2 = 0.476656809095
+I: steps = -3.70162511844 / int(steps) = 3I: steps = -1.13011512819 / int(steps) = 1I: pX = 184 pY = 36
+I: GradM1 = -1.3067538331 LangeM1 = 228.805594337 LangeM1alt = 228.212620159 differenzM1 = -0.592974177842
+I: GradM2 = -0.948950616873 LangeM2 = 314.884105664 LangeM2alt = 314.453494177 differenzM2 = -0.430611487488
+I: steps = -2.15357382188 / int(steps) = 2I: steps = 0.924274446116 / int(steps) = 0I: pX = 185 pY = 37
+I: GradM1 = -3.0822724358 LangeM1 = 230.204257128 LangeM1alt = 228.805594337 differenzM1 = -1.39866279111
+I: GradM2 = 1.02954869261 LangeM2 = 314.416920664 LangeM2alt = 314.884105664 differenzM2 = 0.467185000023
+I: steps = -3.57832097277 / int(steps) = 3I: steps = -0.219668545671 / int(steps) = 0I: pX = 185 pY = 38
+I: GradM1 = -1.31457395723 LangeM1 = 230.800779895 LangeM1alt = 230.204257128 differenzM1 = -0.59652276638
+I: GradM2 = -0.963059405905 LangeM2 = 314.853934389 LangeM2alt = 314.416920664 differenzM2 = -0.437013724363
+I: steps = -2.03895870303 / int(steps) = 2I: steps = 0.85039746089 / int(steps) = 0I: pX = 186 pY = 39
+I: GradM1 = -3.08425985585 LangeM1 = 232.20034453 LangeM1alt = 230.800779895 differenzM1 = -1.39956463563
+I: GradM2 = 1.0086189874 LangeM2 = 314.396246797 LangeM2alt = 314.853934389 differenzM2 = 0.457687591694
+I: steps = -3.46591409842 / int(steps) = 3I: steps = -0.270290302887 / int(steps) = 0I: pX = 187 pY = 40
+I: GradM1 = -3.08464870472 LangeM1 = 233.600085616 LangeM1alt = 232.20034453 differenzM1 = -1.3997410861
+I: GradM2 = 0.99605032464 LangeM2 = 313.944262569 LangeM2alt = 314.396246797 differenzM2 = 0.451984227925
+I: steps = -3.8933015481 / int(steps) = 3I: steps = -1.37701288582 / int(steps) = 1I: pX = 187 pY = 41
+I: GradM1 = -1.32374188422 LangeM1 = 234.200768573 LangeM1alt = 233.600085616 differenzM1 = -0.600682956185
+I: GradM2 = -0.985536149607 LangeM2 = 314.391475711 LangeM2alt = 313.944262569 differenzM2 = -0.447213142402
+I: steps = -2.36412586391 / int(steps) = 2I: steps = 0.71802728041 / int(steps) = 0I: pX = 188 pY = 42
+I: GradM1 = -3.08651872592 LangeM1 = 235.60135823 LangeM1alt = 234.200768573 differenzM1 = -1.40058965777
+I: GradM2 = 0.975006997376 LangeM2 = 313.949040451 LangeM2alt = 314.391475711 differenzM2 = 0.442435260578
+I: steps = -3.79359111493 / int(steps) = 3I: steps = -0.365313827785 / int(steps) = 0I: pX = 188 pY = 43
+I: GradM1 = -1.33118582989 LangeM1 = 236.205419074 LangeM1alt = 235.60135823 differenzM1 = -0.604060843781
+I: GradM2 = -0.999539824257 LangeM2 = 314.402608132 LangeM2alt = 313.949040451 differenzM2 = -0.453567680841
+I: steps = -2.27268648148 / int(steps) = 2I: steps = 0.745285976945 / int(steps) = 0I: pX = 189 pY = 44
+I: GradM1 = -3.08830231776 LangeM1 = 237.606818084 LangeM1alt = 236.205419074 differenzM1 = -1.40139900983
+I: GradM2 = 0.953915349455 LangeM2 = 313.969743765 LangeM2alt = 314.402608132 differenzM2 = 0.432864366452
+I: steps = -3.70413350121 / int(steps) = 3I: steps = -0.314619966895 / int(steps) = 0I: pX = 190 pY = 45
+I: GradM1 = -3.08863499369 LangeM1 = 239.008368054 LangeM1alt = 237.606818084 differenzM1 = -1.40154997035
+I: GradM2 = 0.941175210774 LangeM2 = 313.542660574 LangeM2alt = 313.969743765 differenzM2 = 0.42708319094
+I: steps = -4.13595016086 / int(steps) = 4I: steps = -1.36037020109 / int(steps) = 1I: pX = 190 pY = 46
+I: GradM1 = -1.33984900298 LangeM1 = 239.616360042 LangeM1alt = 239.008368054 differenzM1 = -0.607991988122
+I: GradM2 = -1.02188806635 LangeM2 = 314.006369362 LangeM2alt = 313.542660574 differenzM2 = -0.463708787869
+I: steps = -1.62467127528 / int(steps) = 1I: steps = 0.775060983744 / int(steps) = 0I: pX = 191 pY = 47
+I: GradM1 = -3.09031305122 LangeM1 = 241.018671476 LangeM1alt = 239.616360042 differenzM1 = -1.40231143342
+I: GradM2 = 0.919982633113 LangeM2 = 313.588902865 LangeM2alt = 314.006369362 differenzM2 = 0.41746649727
+I: steps = -4.0583524433 / int(steps) = 4I: steps = -0.247141941937 / int(steps) = 0I: pX = 191 pY = 48
+I: GradM1 = -1.34694234955 LangeM1 = 241.629882258 LangeM1alt = 241.018671476 differenzM1 = -0.611210782085
+I: GradM2 = -1.03577159342 LangeM2 = 314.058911671 LangeM2alt = 313.588902865 differenzM2 = -0.470008806162
+I: steps = -1.55495505391 / int(steps) = 1I: steps = 0.90371538409 / int(steps) = 0I: pX = 192 pY = 49
+I: GradM1 = -3.09191271423 LangeM1 = 243.032919581 LangeM1alt = 241.629882258 differenzM1 = -1.4030373229
+I: GradM2 = 0.898750044115 LangeM2 = 313.651080024 LangeM2alt = 314.058911671 differenzM2 = 0.407831647396
+I: steps = -3.99041362527 / int(steps) = 3I: steps = -0.0948957760386 / int(steps) = 0I: pX = 192 pY = 50
+I: GradM1 = -1.35389662776 LangeM1 = 243.647286051 LangeM1alt = 243.032919581 differenzM1 = -0.614366470097
+I: GradM2 = -1.04959750822 LangeM2 = 314.127362705 LangeM2alt = 313.651080024 differenzM2 = -0.476282681356
+I: steps = -2.49474321167 / int(steps) = 2I: steps = 1.07132367754 / int(steps) = 1I: pX = 193 pY = 51
+I: GradM1 = -3.0934370836 LangeM1 = 245.051015097 LangeM1alt = 243.647286051 differenzM1 = -1.40372904589
+I: GradM2 = 0.877480721548 LangeM2 = 313.729182576 LangeM2alt = 314.127362705 differenzM2 = 0.398180128692
+I: steps = -3.93189552679 / int(steps) = 3I: steps = -0.903654901961 / int(steps) = 0I: pX = 194 pY = 52
+I: GradM1 = -3.09370126441 LangeM1 = 246.454864022 LangeM1alt = 245.051015097 differenzM1 = -1.40384892494
+I: GradM2 = 0.864529489019 LangeM2 = 313.336879413 LangeM2alt = 313.729182576 differenzM2 = 0.392303163752
+I: steps = -4.36934137613 / int(steps) = 4I: steps = -1.86424322309 / int(steps) = 1I: pX = 194 pY = 53
+I: GradM1 = -1.36190333335 LangeM1 = 247.072863747 LangeM1alt = 246.454864022 differenzM1 = -0.617999724917
+I: GradM2 = -1.07171531013 LangeM2 = 313.823198633 LangeM2alt = 313.336879413 differenzM2 = -0.486319220048
+I: steps = -1.88256730207 / int(steps) = 1I: steps = 0.326551565946 / int(steps) = 0I: pX = 195 pY = 54
+I: GradM1 = -3.09513475078 LangeM1 = 248.477363154 LangeM1alt = 247.072863747 differenzM1 = -1.40449940736
+I: GradM2 = 0.843177540366 LangeM2 = 313.440584481 LangeM2alt = 313.823198633 differenzM2 = 0.382614151272
+I: steps = -4.32160591405 / int(steps) = 4I: steps = -0.610312367794 / int(steps) = 0I: pX = 195 pY = 55
+I: GradM1 = -1.3685393373 LangeM1 = 249.098374142 LangeM1alt = 248.477363154 differenzM1 = -0.621010987552
+I: GradM2 = -1.08540088872 LangeM2 = 313.933113895 LangeM2alt = 313.440584481 differenzM2 = -0.492529413967
+I: steps = -1.84220517772 / int(steps) = 1I: steps = 0.59568861967 / int(steps) = 0I: pX = 196 pY = 56
+I: GradM1 = -3.09649982949 LangeM1 = 250.50349299 LangeM1alt = 249.098374142 differenzM1 = -1.405118848
+I: GradM2 = 0.821797384552 LangeM2 = 313.560201556 LangeM2alt = 313.933113895 differenzM2 = 0.372912339045
+I: steps = -4.28276054382 / int(steps) = 4I: steps = -0.317419585387 / int(steps) = 0I: pX = 197 pY = 57
+I: GradM1 = -3.09672414032 LangeM1 = 251.908713625 LangeM1alt = 250.50349299 differenzM1 = -1.40522063498
+I: GradM2 = 0.808703114863 LangeM2 = 313.193231089 LangeM2alt = 313.560201556 differenzM2 = 0.366970467205
+I: steps = -3.72356514418 / int(steps) = 3I: steps = -1.2159786019 / int(steps) = 1I: pX = 198 pY = 57
+I: GradM1 = -1.72507371049 LangeM1 = 252.691511531 LangeM1alt = 251.908713625 differenzM1 = -0.782797906755
+I: GradM2 = 1.90595642056 LangeM2 = 312.32835286 LangeM2alt = 313.193231089 differenzM2 = 0.864878229437
+I: steps = -2.64031371139 / int(steps) = 2I: steps = -2.33370795807 / int(steps) = 2I: pX = 199 pY = 57
+I: GradM1 = -1.72844028992 LangeM1 = 253.475837113 LangeM1alt = 252.691511531 differenzM1 = -0.784325581378
+I: GradM2 = 1.90417352411 LangeM2 = 311.464283667 LangeM2alt = 312.32835286 differenzM2 = 0.864069192932
+I: steps = -2.56080292242 / int(steps) = 2I: steps = -2.4494563182 / int(steps) = 2I: pX = 200 pY = 57
+I: GradM1 = -1.73177571451 LangeM1 = 254.261676231 LangeM1alt = 253.475837113 differenzM1 = -0.785839118666
+I: GradM2 = 1.902375748 LangeM2 = 310.601030262 LangeM2alt = 311.464283667 differenzM2 = 0.863253404387
+I: steps = -2.48499816076 / int(steps) = 2I: steps = -2.56320714931 / int(steps) = 2I: pX = 201 pY = 57
+I: GradM1 = -1.73508030847 LangeM1 = 255.049014897 LangeM1alt = 254.261676231 differenzM1 = -0.787338665739
+I: GradM2 = 1.90056294048 LangeM2 = 309.738599467 LangeM2alt = 310.601030262 differenzM2 = 0.862430794939
+I: steps = -2.41286517017 / int(steps) = 2I: steps = -2.67494374985 / int(steps) = 2I: pX = 202 pY = 57
+I: GradM1 = -1.73835439285 LangeM1 = 255.837839265 LangeM1alt = 255.049014897 differenzM1 = -0.788824368285
+I: GradM2 = 1.89873494807 LangeM2 = 308.876998172 LangeM2alt = 309.738599467 differenzM2 = 0.861601294946
+I: steps = -2.34437005112 / int(steps) = 2I: steps = -2.78464924771 / int(steps) = 2I: pX = 203 pY = 57
+I: GradM1 = -1.74159828557 LangeM1 = 256.628135636 LangeM1alt = 255.837839265 differenzM1 = -0.79029637056
+I: GradM2 = 1.89689161556 LangeM2 = 308.016233338 LangeM2alt = 308.876998172 differenzM2 = 0.860764833972
+I: steps = -2.2794792573 / int(steps) = 2I: steps = -2.89230659833 / int(steps) = 2I: pX = 204 pY = 57
+I: GradM1 = -1.74481230137 LangeM1 = 257.419890451 LangeM1alt = 256.628135636 differenzM1 = -0.791754815397
+I: GradM2 = 1.89503278596 LangeM2 = 307.156311998 LangeM2alt = 308.016233338 differenzM2 = 0.859921340786
+I: steps = -2.21815959216 / int(steps) = 2I: steps = -2.99789858273 / int(steps) = 2I: pX = 205 pY = 57
+I: GradM1 = -1.74799675192 LangeM1 = 258.213090296 LangeM1alt = 257.419890451 differenzM1 = -0.793199844214
+I: GradM2 = 1.89315830051 LangeM2 = 306.297241254 LangeM2alt = 307.156311998 differenzM2 = 0.859070743345
+I: steps = -2.16037820541 / int(steps) = 2I: steps = -3.10140780552 / int(steps) = 3I: pX = 206 pY = 57
+I: GradM1 = -1.75115194575 LangeM1 = 259.007721893 LangeM1alt = 258.213090296 differenzM1 = -0.794631597018
+I: GradM2 = 1.89126799866 LangeM2 = 305.439028286 LangeM2alt = 306.297241254 differenzM2 = 0.858212968793
+I: steps = -2.10610258957 / int(steps) = 2I: steps = -2.20281669292 / int(steps) = 2I: pX = 207 pY = 57
+I: GradM1 = -1.7542781883 LangeM1 = 259.803772105 LangeM1alt = 259.007721893 differenzM1 = -0.796050212415
+I: GradM2 = 1.88936171803 LangeM2 = 304.581680342 LangeM2alt = 305.439028286 differenzM2 = 0.857347943444
+I: steps = -2.05530057657 / int(steps) = 2I: steps = -2.30210749074 / int(steps) = 2I: pX = 208 pY = 57
+I: GradM1 = -1.75737578195 LangeM1 = 260.601227933 LangeM1alt = 259.803772105 differenzM1 = -0.797455827615
+I: GradM2 = 1.88743929439 LangeM2 = 303.725204749 LangeM2alt = 304.581680342 differenzM2 = 0.856475592779
+I: steps = -2.0079403343 / int(steps) = 2I: steps = -2.39926226229 / int(steps) = 2I: pX = 209 pY = 57
+I: GradM1 = -1.76044502603 LangeM1 = 261.400076511 LangeM1alt = 260.601227933 differenzM1 = -0.798848578442
+I: GradM2 = 1.88550056167 LangeM2 = 302.869608908 LangeM2alt = 303.725204749 differenzM2 = 0.855595841433
+I: steps = -1.96399036322 / int(steps) = 1I: steps = -2.49426288637 / int(steps) = 2I: pX = 210 pY = 57
+I: GradM1 = -1.76348621681 LangeM1 = 262.20030511 LangeM1alt = 261.400076511 differenzM1 = -0.800228599342
+I: GradM2 = 1.8835453519 LangeM2 = 302.014900295 LangeM2alt = 302.869608908 differenzM2 = 0.854708613189
+I: steps = -2.92341949301 / int(steps) = 2I: steps = -2.58709105514 / int(steps) = 2I: pX = 211 pY = 57
+I: GradM1 = -1.76649964754 LangeM1 = 263.001901134 LangeM1alt = 262.20030511 differenzM1 = -0.801596023388
+I: GradM2 = 1.8815734952 LangeM2 = 301.161086464 LangeM2alt = 302.014900295 differenzM2 = 0.853813830965
+I: steps = -2.88619687916 / int(steps) = 2I: steps = -2.67772827203 / int(steps) = 2I: pX = 212 pY = 57
+I: GradM1 = -1.7694856085 LangeM1 = 263.804852116 LangeM1alt = 263.001901134 differenzM1 = -0.802950982292
+I: GradM2 = 1.8795848198 LangeM2 = 300.308175047 LangeM2alt = 301.161086464 differenzM2 = 0.852911416806
+I: steps = -2.85229199972 / int(steps) = 2I: steps = -2.76615584959 / int(steps) = 2I: pX = 213 pY = 57
+I: GradM1 = -1.77244438694 LangeM1 = 264.609145723 LangeM1alt = 263.804852116 differenzM1 = -0.804293606412
+I: GradM2 = 1.87757915196 LangeM2 = 299.456173755 LangeM2alt = 300.308175047 differenzM2 = 0.852001291875
+I: steps = -2.82167465187 / int(steps) = 2I: steps = -2.85235490732 / int(steps) = 2I: pX = 214 pY = 57
+I: GradM1 = -1.77537626718 LangeM1 = 265.414769747 LangeM1alt = 264.609145723 differenzM1 = -0.80562402476
+I: GradM2 = 1.87555631597 LangeM2 = 298.605090379 LangeM2alt = 299.456173755 differenzM2 = 0.851083376445
+I: steps = -2.79431494874 / int(steps) = 2I: steps = -2.9363063695 / int(steps) = 2I: pX = 215 pY = 57
+I: GradM1 = -1.77828153059 LangeM1 = 266.221712112 LangeM1alt = 265.414769747 differenzM1 = -0.806942365015
+I: GradM2 = 1.87351613415 LangeM2 = 297.754932789 LangeM2alt = 298.605090379 differenzM2 = 0.850157589886
+I: steps = -2.77018331607 / int(steps) = 2I: steps = -3.01799096301 / int(steps) = 3I: pX = 216 pY = 57
+I: GradM1 = -1.78116045561 LangeM1 = 267.029960866 LangeM1alt = 266.221712112 differenzM1 = -0.808248753526
+I: GradM2 = 1.87145842681 LangeM2 = 296.905708938 LangeM2alt = 297.754932789 differenzM2 = 0.849223850655
+I: steps = -2.74925048896 / int(steps) = 2I: steps = -2.09738921502 / int(steps) = 2I: pX = 217 pY = 57
+I: GradM1 = -1.78401331777 LangeM1 = 267.839504181 LangeM1alt = 267.029960866 differenzM1 = -0.809543315325
+I: GradM2 = 1.86938301222 LangeM2 = 296.057426862 LangeM2alt = 296.905708938 differenzM2 = 0.848282076291
+I: steps = -2.7314875087 / int(steps) = 2I: steps = -2.17448145082 / int(steps) = 2I: pX = 218 pY = 57
+I: GradM1 = -1.78684038972 LangeM1 = 268.650330355 LangeM1alt = 267.839504181 differenzM1 = -0.810826174136
+I: GradM2 = 1.86728970661 LangeM2 = 295.210094678 LangeM2alt = 296.057426862 differenzM2 = 0.8473321834
+I: steps = -2.71686571951 / int(steps) = 2I: steps = -2.24924779149 / int(steps) = 2I: pX = 219 pY = 57
+I: GradM1 = -1.78964194127 LangeM1 = 269.462427808 LangeM1alt = 268.650330355 differenzM1 = -0.812097452385
+I: GradM2 = 1.86517832412 LangeM2 = 294.363720591 LangeM2alt = 295.210094678 differenzM2 = 0.846374087649
+I: steps = -2.70535676536 / int(steps) = 2I: steps = -2.32166815162 / int(steps) = 2I: pX = 220 pY = 57
+I: GradM1 = -1.79241823936 LangeM1 = 270.275785079 LangeM1alt = 269.462427808 differenzM1 = -0.813357271208
+I: GradM2 = 1.86304867681 LangeM2 = 293.518312887 LangeM2alt = 294.363720591 differenzM2 = 0.845407703753
+I: steps = -2.69693258687 / int(steps) = 2I: steps = -2.39172223697 / int(steps) = 2I: pX = 221 pY = 57
+I: GradM1 = -1.79516954812 LangeM1 = 271.090390829 LangeM1alt = 270.275785079 differenzM1 = -0.814605750461
+I: GradM2 = 1.86090057463 LangeM2 = 292.673879941 LangeM2alt = 293.518312887 differenzM2 = 0.844432945467
+I: steps = -2.69156541811 / int(steps) = 2I: steps = -2.45938954211 / int(steps) = 2I: pX = 222 pY = 57
+I: GradM1 = -1.79789612888 LangeM1 = 271.906233838 LangeM1alt = 271.090390829 differenzM1 = -0.815843008732
+I: GradM2 = 1.85873382537 LangeM2 = 291.830430216 LangeM2alt = 292.673879941 differenzM2 = 0.843449725576
+I: steps = -2.68922778353 / int(steps) = 2I: steps = -2.52464934807 / int(steps) = 2I: pX = 223 pY = 57
+I: GradM1 = -1.80059824021 LangeM1 = 272.723303001 LangeM1alt = 271.906233838 differenzM1 = -0.817069163348
+I: GradM2 = 1.85654823466 LangeM2 = 290.98797226 LangeM2alt = 291.830430216 differenzM2 = 0.842457955882
+I: steps = -2.68989249488 / int(steps) = 2I: steps = -2.58748071992 / int(steps) = 2I: pX = 224 pY = 57
+I: GradM1 = -1.80327613791 LangeM1 = 273.541587332 LangeM1alt = 272.723303001 differenzM1 = -0.818284330387
+I: GradM2 = 1.85434360598 LangeM2 = 290.146514713 LangeM2alt = 290.98797226 differenzM2 = 0.841457547197
+I: steps = -2.69353264811 / int(steps) = 2I: steps = -2.64786250434 / int(steps) = 2I: pX = 225 pY = 57
+I: GradM1 = -1.80593007505 LangeM1 = 274.361075956 LangeM1alt = 273.541587332 differenzM1 = -0.819488624686
+I: GradM2 = 1.85211974056 LangeM2 = 289.306066303 LangeM2alt = 290.146514713 differenzM2 = 0.840448409335
+I: steps = -2.70012162038 / int(steps) = 2I: steps = -2.70577332718 / int(steps) = 2I: pX = 226 pY = 57
+I: GradM1 = -1.80856030199 LangeM1 = 275.181758116 LangeM1alt = 274.361075956 differenzM1 = -0.820682159856
+I: GradM2 = 1.84987643742 LangeM2 = 288.466635852 LangeM2alt = 289.306066303 differenzM2 = 0.839430451093
+I: steps = -2.70963306703 / int(steps) = 2I: steps = -2.76119159098 / int(steps) = 2I: pX = 226 pY = 58
+I: GradM1 = -1.2599925515 LangeM1 = 275.753513124 LangeM1alt = 275.181758116 differenzM1 = -0.571755007246
+I: GradM2 = -1.20207772587 LangeM2 = 289.012110473 LangeM2alt = 288.466635852 differenzM2 = -0.545474620502
+I: steps = -2.10962479092 / int(steps) = 2I: steps = 0.574450326656 / int(steps) = 0I: pX = 194 pY = 9
+I: GradM1 = 117.303027795 LangeM1 = 222.524155992 LangeM1alt = 275.753513124 differenzM1 = 53.2293571315
+I: GradM2 = -12.9416415246 LangeM2 = 294.884723239 LangeM2alt = 289.012110473 differenzM2 = -5.87261276654
+I: steps = 130.227072759 / int(steps) = 130I: steps = 14.9540520207 / int(steps) = 14I: pX = 193 pY = 9
+I: GradM1 = 1.92005143388 LangeM1 = 221.652881777 LangeM1alt = 222.524155992 differenzM1 = 0.871274215218
+I: GradM2 = -2.04816158901 LangeM2 = 295.814130832 LangeM2alt = 294.884723239 differenzM2 = -0.929407592745
+I: steps = 3.22978711958 / int(steps) = 3I: steps = 2.360463241 / int(steps) = 2I: pX = 193 pY = 11
+I: GradM1 = -2.18241924284 LangeM1 = 222.643212338 LangeM1alt = 221.652881777 differenzM1 = -0.990330560697
+I: GradM2 = -1.63688006481 LangeM2 = 296.556908535 LangeM2alt = 295.814130832 differenzM2 = -0.742777703093
+I: steps = -2.06444702882 / int(steps) = 2I: steps = 2.04854274715 / int(steps) = 2I: pX = 192 pY = 11
+I: GradM1 = 1.90908388274 LangeM1 = 221.776914939 LangeM1alt = 222.643212338 differenzM1 = 0.866297398273
+I: GradM2 = -2.04405658857 LangeM2 = 297.484453375 LangeM2alt = 296.556908535 differenzM2 = -0.927544840022
+I: steps = 2.31971673445 / int(steps) = 2I: steps = 2.05675728533 / int(steps) = 2I: pX = 228 pY = 9
+I: GradM1 = -68.1796875667 LangeM1 = 252.715254783 LangeM1alt = 221.776914939 differenzM1 = -30.9383398436
+I: GradM2 = 74.6886738938 LangeM2 = 263.592488512 LangeM2alt = 297.484453375 differenzM2 = 33.8919648632
+I: steps = -82.6676987031 / int(steps) = 82I: steps = -75.6984511221 / int(steps) = 75I: pX = 229 pY = 10
+I: GradM1 = -2.93966976138 LangeM1 = 254.049207832 LangeM1alt = 252.715254783 differenzM1 = -1.33395304894
+I: GradM2 = 1.0878654406 LangeM2 = 263.098840742 LangeM2alt = 263.592488512 differenzM2 = 0.493647769687
+I: steps = -3.964750857 / int(steps) = 3I: steps = -1.87643808156 / int(steps) = 1I: pX = 229 pY = 11
+I: GradM1 = -0.957703633019 LangeM1 = 254.483791232 LangeM1alt = 254.049207832 differenzM1 = -0.4345834005
+I: GradM2 = -0.924815540161 LangeM2 = 263.518500299 LangeM2alt = 263.098840742 differenzM2 = -0.419659556905
+I: steps = -2.0288660048 / int(steps) = 2I: steps = 0.151134740845 / int(steps) = 0I: pX = 230 pY = 12
+I: GradM1 = -2.94519034846 LangeM1 = 255.820249394 LangeM1alt = 254.483791232 differenzM1 = -1.33645816161
+I: GradM2 = 1.06303677889 LangeM2 = 263.036119193 LangeM2alt = 263.518500299 differenzM2 = 0.482381106532
+I: steps = -3.30129972532 / int(steps) = 3I: steps = -1.03001723569 / int(steps) = 1I: pX = 191 pY = 14
+I: GradM1 = 73.5736416636 LangeM1 = 222.434259951 LangeM1alt = 255.820249394 differenzM1 = 33.3859894429
+I: GradM2 = -80.4475264827 LangeM2 = 299.541316015 LangeM2alt = 263.036119193 differenzM2 = -36.5051968222
+I: steps = 89.3561233007 / int(steps) = 89I: steps = 81.447191012 / int(steps) = 81I: pX = 190 pY = 14
+I: GradM1 = 1.89099248462 LangeM1 = 221.576172004 LangeM1alt = 222.434259951 differenzM1 = 0.858087946993
+I: GradM2 = -2.03842256429 LangeM2 = 300.466304267 LangeM2alt = 299.541316015 differenzM2 = -0.924988252214
+I: steps = 2.621037261 / int(steps) = 2I: steps = 2.54829377271 / int(steps) = 2I: pX = 190 pY = 16
+I: GradM1 = -2.28217565434 LangeM1 = 222.61176968 LangeM1alt = 221.576172004 differenzM1 = -1.03559767574
+I: GradM2 = -1.68475946606 LangeM2 = 301.230808517 LangeM2alt = 300.466304267 differenzM2 = -0.764504250106
+I: steps = -1.98745695434 / int(steps) = 1I: steps = 2.49299222328 / int(steps) = 2I: pX = 189 pY = 16
+I: GradM1 = 1.87954118492 LangeM1 = 221.758878064 LangeM1alt = 222.61176968 differenzM1 = 0.852891616322
+I: GradM2 = -2.03431814062 LangeM2 = 302.153934279 LangeM2alt = 301.230808517 differenzM2 = -0.923125761217
+I: steps = 2.75334571286 / int(steps) = 2I: steps = 1.10092214002 / int(steps) = 1I: pX = 189 pY = 18
+I: GradM1 = -2.31986789308 LangeM1 = 222.811579591 LangeM1alt = 221.758878064 differenzM1 = -1.05270152783
+I: GradM2 = -1.70447293563 LangeM2 = 302.927384038 LangeM2alt = 302.153934279 differenzM2 = -0.773449759286
+I: steps = -2.47670885229 / int(steps) = 2I: steps = 2.64720453022 / int(steps) = 2I: pX = 188 pY = 18
+I: GradM1 = 1.86792078654 LangeM1 = 221.963961039 LangeM1alt = 222.811579591 differenzM1 = 0.847618552643
+I: GradM2 = -2.0302120092 LangeM2 = 303.848646533 LangeM2alt = 302.927384038 differenzM2 = -0.92126249528
+I: steps = 2.90299565156 / int(steps) = 2I: steps = 1.59875868831 / int(steps) = 1I: pX = 231 pY = 14
+I: GradM1 = -78.5288880678 LangeM1 = 257.59852484 LangeM1alt = 221.963961039 differenzM1 = -35.6345638018
+I: GradM2 = 90.0360671076 LangeM2 = 262.992395327 LangeM2alt = 303.848646533 differenzM2 = 40.8562512058
+I: steps = -99.1370789125 / int(steps) = 99I: steps = -86.655561387 / int(steps) = 86I: pX = 232 pY = 15
+I: GradM1 = -2.95231625082 LangeM1 = 258.938216569 LangeM1alt = 257.59852484 differenzM1 = -1.33969172863
+I: GradM2 = 1.0231944467 LangeM2 = 262.528093735 LangeM2alt = 262.992395327 differenzM2 = 0.464301592571
+I: steps = -3.93591277678 / int(steps) = 3I: steps = -1.27396163104 / int(steps) = 1I: pX = 232 pY = 16
+I: GradM1 = -0.98213288487 LangeM1 = 259.38388539 LangeM1alt = 258.938216569 differenzM1 = -0.445668820849
+I: GradM2 = -0.968725550361 LangeM2 = 262.967678622 LangeM2alt = 262.528093735 differenzM2 = -0.439584887551
+I: steps = -2.02717153775 / int(steps) = 2I: steps = 0.802400091581 / int(steps) = 0I: pX = 233 pY = 17
+I: GradM1 = -2.95745667283 LangeM1 = 260.725909721 LangeM1alt = 259.38388539 differenzM1 = -1.34202433133
+I: GradM2 = 0.998106192816 LangeM2 = 262.51476149 LangeM2alt = 262.967678622 differenzM2 = 0.452917132586
+I: steps = -3.31323450756 / int(steps) = 3I: steps = -0.306606789326 / int(steps) = 0I: pX = 233 pY = 18
+I: GradM1 = -0.992285905764 LangeM1 = 261.176185744 LangeM1alt = 260.725909721 differenzM1 = -0.450276023112
+I: GradM2 = -0.985535720445 LangeM2 = 262.961974437 LangeM2alt = 262.51476149 differenzM2 = -0.447212947659
+I: steps = -1.41577440285 / int(steps) = 1I: steps = 0.788432900058 / int(steps) = 0I: pX = 234 pY = 19
+I: GradM1 = -2.96244881366 LangeM1 = 262.520475392 LangeM1alt = 261.176185744 differenzM1 = -1.34428964751
+I: GradM2 = 0.972943833829 LangeM2 = 262.520475392 LangeM2alt = 262.961974437 differenzM2 = 0.441499045449
+I: steps = -3.7073841958 / int(steps) = 3I: steps = -0.292615804196 / int(steps) = 0I: pX = 187 pY = 21
+I: GradM1 = 87.6807228719 LangeM1 = 222.733024044 LangeM1alt = 262.520475392 differenzM1 = 39.7874513474
+I: GradM2 = -95.6946078545 LangeM2 = 305.9444394 LangeM2alt = 262.520475392 differenzM2 = -43.4239640084
+I: steps = 106.034726256 / int(steps) = 106I: steps = 96.7156412174 / int(steps) = 96I: pX = 186 pY = 21
+I: GradM1 = 1.84871881646 LangeM1 = 221.894118895 LangeM1alt = 222.733024044 differenzM1 = 0.838905149907
+I: GradM2 = -2.0246140782 LangeM2 = 306.863161686 LangeM2alt = 305.9444394 differenzM2 = -0.918722285758
+I: steps = 2.28429745438 / int(steps) = 2I: steps = 2.76977323571 / int(steps) = 2I: pX = 186 pY = 23
+I: GradM1 = -2.41729644566 LangeM1 = 222.99103121 LangeM1alt = 221.894118895 differenzM1 = -1.0969123152
+I: GradM2 = -1.75001387201 LangeM2 = 307.657276852 LangeM2alt = 306.863161686 differenzM2 = -0.794115165902
+I: steps = -1.91611170391 / int(steps) = 1I: steps = 2.22875731216 / int(steps) = 2I: pX = 185 pY = 23
+I: GradM1 = 1.83665196043 LangeM1 = 222.157601716 LangeM1alt = 222.99103121 differenzM1 = 0.833429494239
+I: GradM2 = -2.02051748426 LangeM2 = 308.5741402 LangeM2alt = 307.657276852 differenzM2 = -0.916863347707
+I: steps = 2.47377673912 / int(steps) = 2I: steps = 1.12461269656 / int(steps) = 1I: pX = 235 pY = 21
+I: GradM1 = -92.9183686082 LangeM1 = 264.321773602 LangeM1alt = 222.157601716 differenzM1 = -42.1641718863
+I: GradM2 = 101.435191614 LangeM2 = 262.545234198 LangeM2alt = 308.5741402 differenzM2 = 46.0289060019
+I: steps = -112.231991721 / int(steps) = 112I: steps = -103.11801909 / int(steps) = 103I: pX = 236 pY = 22
+I: GradM1 = -2.96884777919 LangeM1 = 265.668966949 LangeM1alt = 264.321773602 differenzM1 = -1.34719334767
+I: GradM2 = 0.932452982183 LangeM2 = 262.122108949 LangeM2alt = 262.545234198 differenzM2 = 0.423125248597
+I: steps = -3.41673884499 / int(steps) = 3I: steps = -1.26805058964 / int(steps) = 1I: pX = 236 pY = 23
+I: GradM1 = -1.01525904539 LangeM1 = 266.129667643 LangeM1alt = 265.668966949 differenzM1 = -0.460700693953
+I: GradM2 = -1.02897257448 LangeM2 = 262.58903252 LangeM2alt = 262.122108949 differenzM2 = -0.466923571155
+I: steps = -1.54480445098 / int(steps) = 1I: steps = 0.875252270887 / int(steps) = 0I: pX = 237 pY = 24
+I: GradM1 = -2.97349796482 LangeM1 = 267.478971136 LangeM1alt = 266.129667643 differenzM1 = -1.34930349262
+I: GradM2 = 0.907080201821 LangeM2 = 262.177420843 LangeM2alt = 262.58903252 differenzM2 = 0.411611677186
+I: steps = -3.84869107855 / int(steps) = 3I: steps = -0.132614620026 / int(steps) = 0I: pX = 184 pY = 26
+I: GradM1 = 98.0047336032 LangeM1 = 223.006726356 LangeM1alt = 267.478971136 differenzM1 = 44.4722447801
+I: GradM2 = -106.921738538 LangeM2 = 310.695992893 LangeM2alt = 262.177420843 differenzM2 = -48.5185720502
+I: steps = 118.669317089 / int(steps) = 118I: steps = 108.045457369 / int(steps) = 108I: pX = 238 pY = 26
+I: GradM1 = -102.007597868 LangeM1 = 269.295376863 LangeM1alt = 223.006726356 differenzM1 = -46.2886505074
+I: GradM2 = 106.757854847 LangeM2 = 262.25178741 LangeM2alt = 310.695992893 differenzM2 = 48.4442054829
+I: steps = -117.95052163 / int(steps) = 117I: steps = -113.29631804 / int(steps) = 113I: pX = 183 pY = 28
+I: GradM1 = 101.311417689 LangeM1 = 223.32263656 LangeM1alt = 269.295376863 differenzM1 = 45.9727403036
+I: GradM2 = -110.566773926 LangeM2 = 312.424390853 LangeM2alt = 262.25178741 differenzM2 = -50.1726034427
+I: steps = 121.901449399 / int(steps) = 121I: steps = 112.271923836 / int(steps) = 112I: pX = 182 pY = 28
+I: GradM1 = 1.80420099817 LangeM1 = 222.50393255 LangeM1alt = 223.32263656 differenzM1 = 0.818704010237
+I: GradM2 = -2.01087664041 LangeM2 = 313.336879413 LangeM2alt = 312.424390853 differenzM2 = -0.912488559347
+I: steps = 3.13575677691 / int(steps) = 3I: steps = 2.27659161209 / int(steps) = 2I: pX = 182 pY = 30
+I: GradM1 = -2.54866525537 LangeM1 = 223.660456943 LangeM1alt = 222.50393255 differenzM1 = -1.15652439359
+I: GradM2 = -1.81216062297 LangeM2 = 314.159195313 LangeM2alt = 313.336879413 differenzM2 = -0.822315900901
+I: steps = -2.55525867166 / int(steps) = 2I: steps = 2.1492685802 / int(steps) = 2I: pX = 181 pY = 30
+I: GradM1 = 1.79157684792 LangeM1 = 222.847481476 LangeM1alt = 223.660456943 differenzM1 = 0.812975467548
+I: GradM2 = -2.00679898587 LangeM2 = 315.069833529 LangeM2alt = 314.159195313 differenzM2 = -0.910638215554
+I: steps = 2.37904523118 / int(steps) = 2I: steps = 1.43538227047 / int(steps) = 1I: pX = 181 pY = 32
+I: GradM1 = -2.58410674667 LangeM1 = 224.020088385 LangeM1alt = 222.847481476 differenzM1 = -1.17260690939
+I: GradM2 = -1.83012386712 LangeM2 = 315.900300728 LangeM2alt = 315.069833529 differenzM2 = -0.830467198922
+I: steps = -2.43584744805 / int(steps) = 2I: steps = 2.41251619465 / int(steps) = 2I: pX = 182 pY = 33
+I: GradM1 = -3.0792741699 LangeM1 = 225.417390633 LangeM1alt = 224.020088385 differenzM1 = -1.39730224852
+I: GradM2 = 1.07513789978 LangeM2 = 315.412428417 LangeM2alt = 315.900300728 differenzM2 = 0.487872310791
+I: steps = -3.85726319239 / int(steps) = 3I: steps = -0.782081471779 / int(steps) = 0I: pX = 182 pY = 34
+I: GradM1 = -1.30341424401 LangeM1 = 226.008849384 LangeM1alt = 225.417390633 differenzM1 = -0.591458750802
+I: GradM2 = -0.932114717413 LangeM2 = 315.835400169 LangeM2alt = 315.412428417 differenzM2 = -0.422971751995
+I: steps = -2.30550124129 / int(steps) = 2I: steps = 0.253601547568 / int(steps) = 0I: pX = 183 pY = 35
+I: GradM1 = -3.08141678017 LangeM1 = 227.407123899 LangeM1alt = 226.008849384 differenzM1 = -1.3982745147
+I: GradM2 = 1.05439472307 LangeM2 = 315.356940624 LangeM2alt = 315.835400169 differenzM2 = 0.478459544709
+I: steps = -3.7292976637 / int(steps) = 3I: steps = -0.91794814473 / int(steps) = 0I: pX = 239 pY = 28
+I: GradM1 = -96.3270063163 LangeM1 = 271.118055467 LangeM1alt = 227.407123899 differenzM1 = -43.7109315677
+I: GradM2 = 116.823476837 LangeM2 = 262.345192447 LangeM2alt = 315.356940624 differenzM2 = 53.0117481775
+I: steps = -130.721811297 / int(steps) = 130I: steps = -107.759304682 / int(steps) = 107I: pX = 240 pY = 29
+I: GradM1 = -2.98376282562 LangeM1 = 272.472016912 LangeM1alt = 271.118055467 differenzM1 = -1.35396144521
+I: GradM2 = 0.840621980582 LangeM2 = 261.963737949 LangeM2alt = 262.345192447 differenzM2 = 0.381454498303
+I: steps = -4.07459671034 / int(steps) = 4I: steps = -1.65583572035 / int(steps) = 1I: pX = 240 pY = 30
+I: GradM1 = -1.04647192973 LangeM1 = 272.946881279 LangeM1alt = 272.472016912 differenzM1 = -0.474864367295
+I: GradM2 = -1.08837209433 LangeM2 = 262.457615626 LangeM2alt = 261.963737949 differenzM2 = -0.493877677243
+I: steps = -1.23734329893 / int(steps) = 1I: steps = 0.553466606686 / int(steps) = 0I: pX = 241 pY = 31
+I: GradM1 = -2.98797133504 LangeM1 = 274.302752447 LangeM1alt = 272.946881279 differenzM1 = -1.35587116788
+I: GradM2 = 0.815035750207 LangeM2 = 262.087771558 LangeM2alt = 262.457615626 differenzM2 = 0.369844068293
+I: steps = -3.55731144898 / int(steps) = 3I: steps = -0.352128671322 / int(steps) = 0I: pX = 241 pY = 32
+I: GradM1 = -1.05553971385 LangeM1 = 274.781731562 LangeM1alt = 274.302752447 differenzM1 = -0.478979114616
+I: GradM2 = -1.10464284799 LangeM2 = 262.58903252 LangeM2alt = 262.087771558 differenzM2 = -0.501260962855
+I: steps = -1.73013335325 / int(steps) = 1I: steps = 0.875252270887 / int(steps) = 0I: pX = 240 pY = 32
+I: GradM1 = 1.93187287925 LangeM1 = 273.905093052 LangeM1alt = 274.781731562 differenzM1 = 0.876638509296
+I: GradM2 = -1.90611079471 LangeM2 = 263.453980801 LangeM2alt = 262.58903252 differenzM2 = -0.864948280801
+I: steps = 1.41639206813 / int(steps) = 1I: steps = 2.9931531539 / int(steps) = 2I: pX = 240 pY = 34
+I: GradM1 = -2.13634636838 LangeM1 = 274.874516825 LangeM1alt = 273.905093052 differenzM1 = -0.969423773085
+I: GradM2 = -2.22077754171 LangeM2 = 264.461717456 LangeM2alt = 263.453980801 differenzM2 = -1.00773665522
+I: steps = -1.95732611896 / int(steps) = 1I: steps = 3.4606837558 / int(steps) = 3I: pX = 239 pY = 34
+I: GradM1 = 1.92317587675 LangeM1 = 274.001824811 LangeM1alt = 274.874516825 differenzM1 = 0.872692013964
+I: GradM2 = -1.90096309151 LangeM2 = 265.32432983 LangeM2alt = 264.461717456 differenzM2 = -0.862612374071
+I: steps = 1.17953596632 / int(steps) = 1I: steps = 2.57286496859 / int(steps) = 2I: pX = 184 pY = 37
+I: GradM1 = 98.2872186875 LangeM1 = 229.401394939 LangeM1alt = 274.001824811 differenzM1 = 44.6004298724
+I: GradM2 = -110.170912162 LangeM2 = 315.317300509 LangeM2alt = 265.32432983 differenzM2 = -49.9929706781
+I: steps = 122.984989594 / int(steps) = 122I: steps = 109.38755673 / int(steps) = 109I: pX = 238 pY = 37
+I: GradM1 = -99.6368922164 LangeM1 = 274.614274939 LangeM1alt = 229.401394939 differenzM1 = -45.2128799994
+I: GradM2 = 104.912079032 LangeM2 = 267.710664711 LangeM2alt = 315.317300509 differenzM2 = 47.6066357976
+I: steps = -115.583987108 / int(steps) = 115I: steps = -110.320101288 / int(steps) = 110I: pX = 185 pY = 39
+I: GradM1 = 95.2323196986 LangeM1 = 231.40008643 LangeM1alt = 274.614274939 differenzM1 = 43.2141885081
+I: GradM2 = -104.859660139 LangeM2 = 315.293514047 LangeM2alt = 267.710664711 differenzM2 = -47.5828493358
+I: steps = 115.926746379 / int(steps) = 115I: steps = 105.493587266 / int(steps) = 105I: pX = 186 pY = 40
+I: GradM1 = -3.08578610573 LangeM1 = 232.800343642 LangeM1alt = 231.40008643 differenzM1 = -1.40025721195
+I: GradM2 = 1.0002111755 LangeM2 = 314.839641723 LangeM2alt = 315.293514047 differenzM2 = 0.453872324256
+I: steps = -2.93506396251 / int(steps) = 2I: steps = -0.184599371556 / int(steps) = 0I: pX = 186 pY = 41
+I: GradM1 = -1.32827762811 LangeM1 = 233.403084813 LangeM1alt = 232.800343642 differenzM1 = -0.602741170161
+I: GradM2 = -0.982737332317 LangeM2 = 315.285584827 LangeM2alt = 314.839641723 differenzM2 = -0.445943104894
+I: steps = -2.41092799375 / int(steps) = 2I: steps = 0.907330997685 / int(steps) = 0I: pX = 187 pY = 42
+I: GradM1 = -3.08761895372 LangeM1 = 234.804173728 LangeM1alt = 233.403084813 differenzM1 = -1.40108891529
+I: GradM2 = 0.979237578462 LangeM2 = 314.841229829 LangeM2alt = 315.285584827 differenzM2 = 0.444354998847
+I: steps = -3.84161572011 / int(steps) = 3I: steps = -0.180710756162 / int(steps) = 0I: pX = 237 pY = 39
+I: GradM1 = -88.0395134671 LangeM1 = 274.754435815 LangeM1alt = 234.804173728 differenzM1 = -39.9502620872
+I: GradM2 = 99.7081955868 LangeM2 = 269.595994036 LangeM2alt = 314.841229829 differenzM2 = 45.2452357931
+I: steps = -110.967594741 / int(steps) = 110I: steps = -98.6632973502 / int(steps) = 98I: pX = 236 pY = 39
+I: GradM1 = 1.89988069812 LangeM1 = 273.892314606 LangeM1alt = 274.754435815 differenzM1 = 0.862121209389
+I: GradM2 = -1.88932021239 LangeM2 = 270.453323145 LangeM2alt = 269.595994036 differenzM2 = -0.857329109159
+I: steps = 1.44768120326 / int(steps) = 1I: steps = 1.13164993898 / int(steps) = 1I: pX = 236 pY = 41
+I: GradM1 = -2.24868149743 LangeM1 = 274.91271342 LangeM1alt = 273.892314606 differenzM1 = -1.02039881452
+I: GradM2 = -2.27716680463 LangeM2 = 271.486647922 LangeM2alt = 270.453323145 differenzM2 = -1.03332477746
+I: steps = -2.05085379388 / int(steps) = 2I: steps = 2.66183527746 / int(steps) = 2I: pX = 235 pY = 41
+I: GradM1 = 1.89074217499 LangeM1 = 274.054739058 LangeM1alt = 274.91271342 differenzM1 = 0.857974362367
+I: GradM2 = -1.88429594753 LangeM2 = 272.341697138 LangeM2alt = 271.486647922 differenzM2 = -0.855049215849
+I: steps = 2.049970845 / int(steps) = 2I: steps = 2.75549744138 / int(steps) = 2I: pX = 188 pY = 44
+I: GradM1 = 82.0725123277 LangeM1 = 236.81216185 LangeM1alt = 274.054739058 differenzM1 = 37.2425772079
+I: GradM2 = -93.6959087496 LangeM2 = 314.858698466 LangeM2alt = 272.341697138 differenzM2 = -42.5170013285
+I: steps = 104.862062719 / int(steps) = 104I: steps = 91.2416512091 / int(steps) = 91I: pX = 189 pY = 45
+I: GradM1 = -3.08968730399 LangeM1 = 238.214189334 LangeM1alt = 236.81216185 differenzM1 = -1.40202748403
+I: GradM2 = 0.945522961292 LangeM2 = 314.429642369 LangeM2alt = 314.858698466 differenzM2 = 0.429056097944
+I: steps = -3.19133468424 / int(steps) = 3I: steps = -0.188518349429 / int(steps) = 0I: pX = 189 pY = 46
+I: GradM1 = -1.34430451484 LangeM1 = 238.824203129 LangeM1alt = 238.214189334 differenzM1 = -0.610013794692
+I: GradM2 = -1.01900963787 LangeM2 = 314.892044993 LangeM2alt = 314.429642369 differenzM2 = -0.462402624673
+I: steps = -1.68500636739 / int(steps) = 1I: steps = 0.943714581535 / int(steps) = 0I: pX = 190 pY = 47
+I: GradM1 = -3.09132994379 LangeM1 = 240.226976004 LangeM1alt = 238.824203129 differenzM1 = -1.40277287537
+I: GradM2 = 0.924399289909 LangeM2 = 314.472574321 LangeM2alt = 314.892044993 differenzM2 = 0.419470672323
+I: steps = -4.11981741605 / int(steps) = 4I: steps = -0.0833957405853 / int(steps) = 0I: pX = 190 pY = 48
+I: GradM1 = -1.35137006811 LangeM1 = 240.840195981 LangeM1alt = 240.226976004 differenzM1 = -0.613219976709
+I: GradM2 = -1.03286540113 LangeM2 = 314.941264365 LangeM2alt = 314.472574321 differenzM2 = -0.4686900444
+I: steps = -1.62133971395 / int(steps) = 1I: steps = 1.06423248289 / int(steps) = 1I: pX = 191 pY = 49
+I: GradM1 = -3.0928948377 LangeM1 = 242.243678968 LangeM1alt = 240.840195981 differenzM1 = -1.40348298745
+I: GradM2 = 0.903235157468 LangeM2 = 314.531397479 LangeM2alt = 314.941264365 differenzM2 = 0.409866886425
+I: steps = -4.05788953361 / int(steps) = 4I: steps = -0.939362136517 / int(steps) = 0I: pX = 234 pY = 44
+I: GradM1 = -71.6528877006 LangeM1 = 274.758075405 LangeM1alt = 242.243678968 differenzM1 = -32.5143964364
+I: GradM2 = 87.6495857963 LangeM2 = 274.758075405 LangeM2alt = 314.531397479 differenzM2 = 39.7733220743
+I: steps = -98.3277907991 / int(steps) = 98I: steps = -79.6722092009 / int(steps) = 79I: pX = 233 pY = 44
+I: GradM1 = 1.87571836058 LangeM1 = 273.906918496 LangeM1alt = 274.758075405 differenzM1 = 0.851156908481
+I: GradM2 = -1.87792146644 LangeM2 = 275.610232031 LangeM2alt = 274.758075405 differenzM2 = -0.852156626143
+I: steps = 1.41192231084 / int(steps) = 1I: steps = 1.75878860807 / int(steps) = 1I: pX = 233 pY = 46
+I: GradM1 = -2.32871351478 LangeM1 = 274.963633959 LangeM1alt = 273.906918496 differenzM1 = -1.05671546306
+I: GradM2 = -2.31437650806 LangeM2 = 276.660441697 LangeM2alt = 275.610232031 differenzM2 = -1.05020966637
+I: steps = -2.17553715002 / int(steps) = 2I: steps = 3.33031806147 / int(steps) = 3I: pX = 232 pY = 46
+I: GradM1 = 1.86627231932 LangeM1 = 274.116763442 LangeM1alt = 274.963633959 differenzM1 = 0.84687051696
+I: GradM2 = -1.8729891788 LangeM2 = 277.510360167 LangeM2alt = 276.660441697 differenzM2 = -0.84991846993
+I: steps = 1.89809876033 / int(steps) = 1I: steps = 2.41141714902 / int(steps) = 2I: pX = 232 pY = 48
+I: GradM1 = -2.35897092106 LangeM1 = 275.187209005 LangeM1alt = 274.116763442 differenzM1 = -1.07044556292
+I: GradM2 = -2.33023389685 LangeM2 = 278.567765544 LangeM2alt = 277.510360167 differenzM2 = -1.05740537671
+I: steps = -1.72298004085 / int(steps) = 1I: steps = 3.00056592329 / int(steps) = 3I: pX = 231 pY = 48
+I: GradM1 = 1.85671864128 LangeM1 = 274.344673723 LangeM1alt = 275.187209005 differenzM1 = 0.842535282397
+I: GradM2 = -1.86809086924 LangeM2 = 279.415461276 LangeM2alt = 278.567765544 differenzM2 = -0.847695732175
+I: steps = 1.34004067168 / int(steps) = 1I: steps = 2.07622244467 / int(steps) = 2I: pX = 192 pY = 51
+I: GradM1 = 66.2891812272 LangeM1 = 244.264201225 LangeM1alt = 274.344673723 differenzM1 = 30.0804724979
+I: GradM2 = -77.5506043729 LangeM2 = 314.606102929 LangeM2alt = 279.415461276 differenzM2 = -35.1906416529
+I: steps = 86.2435606367 / int(steps) = 86I: steps = 73.9946864797 / int(steps) = 73I: pX = 193 pY = 52
+I: GradM1 = -3.0946392733 LangeM1 = 245.668475796 LangeM1alt = 244.264201225 differenzM1 = -1.40427457132
+I: GradM2 = 0.869130207882 LangeM2 = 314.211712067 LangeM2alt = 314.606102929 differenzM2 = 0.394390861846
+I: steps = -2.44380160172 / int(steps) = 2I: steps = -0.722139594235 / int(steps) = 0I: pX = 193 pY = 53
+I: GradM1 = -1.36625184844 LangeM1 = 246.288448775 LangeM1alt = 245.668475796 differenzM1 = -0.619972978866
+I: GradM2 = -1.06873603009 LangeM2 = 314.69667936 LangeM2alt = 314.211712067 differenzM2 = -0.484967292785
+I: steps = -1.96185921109 / int(steps) = 1I: steps = 0.465344883648 / int(steps) = 0I: pX = 194 pY = 54
+I: GradM1 = -3.09603966873 LangeM1 = 247.693358813 LangeM1alt = 246.288448775 differenzM1 = -1.40491003786
+I: GradM2 = 0.847845590043 LangeM2 = 314.311946957 LangeM2alt = 314.69667936 differenzM2 = 0.384732402506
+I: steps = -4.40190328746 / int(steps) = 4I: steps = -0.476705771956 / int(steps) = 0I: pX = 230 pY = 51
+I: GradM1 = -60.4808500229 LangeM1 = 275.138147119 LangeM1alt = 247.693358813 differenzM1 = -27.444788306
+I: GradM2 = 71.5154990229 LangeM2 = 281.859894274 LangeM2alt = 314.311946957 differenzM2 = 32.4520526834
+I: steps = -79.9383713529 / int(steps) = 79I: steps = -67.6028477573 / int(steps) = 67I: pX = 229 pY = 51
+I: GradM1 = 1.84098267749 LangeM1 = 274.302752447 LangeM1alt = 275.138147119 differenzM1 = 0.835394671861
+I: GradM2 = -1.86192708663 LangeM2 = 282.704793026 LangeM2alt = 281.859894274 differenzM2 = -0.844898752491
+I: steps = 1.44268855102 / int(steps) = 1I: steps = 1.13043652112 / int(steps) = 1I: pX = 229 pY = 53
+I: GradM1 = -2.43739954983 LangeM1 = 275.408787078 LangeM1alt = 274.302752447 differenzM1 = -1.10603463141
+I: GradM2 = -2.36523771028 LangeM2 = 283.778082311 LangeM2alt = 282.704793026 differenzM2 = -1.07328928458
+I: steps = -2.26553317101 / int(steps) = 2I: steps = 2.75847842144 / int(steps) = 2I: pX = 228 pY = 53
+I: GradM1 = 1.83114214072 LangeM1 = 274.577857811 LangeM1alt = 275.408787078 differenzM1 = 0.83092926755
+I: GradM2 = -1.85712141901 LangeM2 = 284.620800364 LangeM2alt = 283.778082311 differenzM2 = -0.842718053466
+I: steps = 1.76906920757 / int(steps) = 1I: steps = 2.82194666478 / int(steps) = 2I: pX = 195 pY = 56
+I: GradM1 = 54.7758922569 LangeM1 = 249.72184526 LangeM1alt = 274.577857811 differenzM1 = 24.856012551
+I: GradM2 = -65.6870771522 LangeM2 = 314.428052184 LangeM2alt = 284.620800364 differenzM2 = -29.8072518194
+I: steps = 73.807587945 / int(steps) = 73I: steps = 61.6311717152 / int(steps) = 61I: pX = 196 pY = 57
+I: GradM1 = -3.09758752463 LangeM1 = 251.127457678 LangeM1alt = 249.72184526 differenzM1 = -1.40561241849
+I: GradM2 = 0.813485304788 LangeM2 = 314.058911671 LangeM2alt = 314.428052184 differenzM2 = 0.3691405126
+I: steps = -2.81059220105 / int(steps) = 2I: steps = -0.0962846159103 / int(steps) = 0I: pX = 197 pY = 58
+I: GradM1 = -3.09779917458 LangeM1 = 252.533166139 LangeM1alt = 251.127457678 differenzM1 = -1.40570846026
+I: GradM2 = 0.8003923473 LangeM2 = 313.695712435 LangeM2alt = 314.058911671 differenzM2 = 0.363199236206
+I: steps = -4.25259128392 / int(steps) = 4I: steps = -0.985609446244 / int(steps) = 0I: pX = 198 pY = 58
+I: GradM1 = -1.7208211924 LangeM1 = 253.314034353 LangeM1alt = 252.533166139 differenzM1 = -0.780868213991
+I: GradM2 = 1.90289500424 LangeM2 = 312.832223404 LangeM2alt = 313.695712435 differenzM2 = 0.863489030662
+I: steps = -2.16461483104 / int(steps) = 2I: steps = -3.09993722873 / int(steps) = 3I: pX = 199 pY = 58
+I: GradM1 = -1.72420571873 LangeM1 = 254.096438385 LangeM1alt = 253.314034353 differenzM1 = -0.782404032495
+I: GradM2 = 1.90109803454 LangeM2 = 311.969549796 LangeM2alt = 312.832223404 differenzM2 = 0.862673608046
+I: steps = -2.08039896296 / int(steps) = 2I: steps = -2.21226837822 / int(steps) = 2I: pX = 200 pY = 58
+I: GradM1 = -1.72755907671 LangeM1 = 254.880364093 LangeM1alt = 254.096438385 differenzM1 = -0.783925707532
+I: GradM2 = 1.89928611634 LangeM2 = 311.107698394 LangeM2alt = 311.969549796 differenzM2 = 0.861851402149
+I: steps = -1.99990904819 / int(steps) = 1I: steps = -2.32258628526 / int(steps) = 2I: pX = 201 pY = 58
+I: GradM1 = -1.73088158836 LangeM1 = 255.665797478 LangeM1alt = 254.880364093 differenzM1 = -0.785433385233
+I: GradM2 = 1.89745909785 LangeM2 = 310.24667605 LangeM2alt = 311.107698394 differenzM2 = 0.861022344099
+I: steps = -2.92311081303 / int(steps) = 2I: steps = -2.43087417176 / int(steps) = 2I: pX = 202 pY = 58
+I: GradM1 = -1.73417357261 LangeM1 = 256.452724688 LangeM1alt = 255.665797478 differenzM1 = -0.786927210317
+I: GradM2 = 1.89561682559 LangeM2 = 309.386489686 LangeM2alt = 310.24667605 differenzM2 = 0.860186364246
+I: steps = -2.84997033815 / int(steps) = 2I: steps = -2.53711508908 / int(steps) = 2I: pX = 203 pY = 58
+I: GradM1 = -1.7374353453 LangeM1 = 257.241132014 LangeM1alt = 256.452724688 differenzM1 = -0.788407326106
+I: GradM2 = 1.89375914434 LangeM2 = 308.527146293 LangeM2alt = 309.386489686 differenzM2 = 0.859343392153
+I: steps = -2.78045405515 / int(steps) = 2I: steps = -2.64129191613 / int(steps) = 2I: pX = 204 pY = 58
+I: GradM1 = -1.7406672192 LangeM1 = 258.031005889 LangeM1alt = 257.241132014 differenzM1 = -0.789873874524
+I: GradM2 = 1.89188589713 LangeM2 = 307.668652937 LangeM2alt = 308.527146293 differenzM2 = 0.858493356593
+I: steps = -2.71452874315 / int(steps) = 2I: steps = -2.74338735738 / int(steps) = 2I: pX = 205 pY = 58
+I: GradM1 = -1.743869504 LangeM1 = 258.822332885 LangeM1alt = 258.031005889 differenzM1 = -0.791326996108
+I: GradM2 = 1.88999692521 LangeM2 = 306.811016751 LangeM2alt = 307.668652937 differenzM2 = 0.857636185535
+I: steps = -2.65216152538 / int(steps) = 2I: steps = -2.84338394095 / int(steps) = 2I: pX = 206 pY = 58
+I: GradM1 = -1.74704250637 LangeM1 = 259.615099715 LangeM1alt = 258.822332885 differenzM1 = -0.792766830009
+I: GradM2 = 1.88809206808 LangeM2 = 305.954244945 LangeM2alt = 306.811016751 differenzM2 = 0.856771806134
+I: steps = -2.59331986579 / int(steps) = 2I: steps = -2.94126401659 / int(steps) = 2I: pX = 207 pY = 58
+I: GradM1 = -1.75018652992 LangeM1 = 260.409293229 LangeM1alt = 259.615099715 differenzM1 = -0.794193514004
+I: GradM2 = 1.88617116338 LangeM2 = 305.0983448 LangeM2alt = 305.954244945 differenzM2 = 0.855900144728
+I: steps = -2.5379715657 / int(steps) = 2I: steps = -3.03700975368 / int(steps) = 3I: pX = 208 pY = 58
+I: GradM1 = -1.75330187526 LangeM1 = 261.204900413 LangeM1alt = 260.409293229 differenzM1 = -0.795607184502
+I: GradM2 = 1.88423404696 LangeM2 = 304.243323674 LangeM2alt = 305.0983448 differenzM2 = 0.855021126825
+I: steps = -2.48608476043 / int(steps) = 2I: steps = -2.1306031392 / int(steps) = 2I: pX = 209 pY = 58
+I: GradM1 = -1.75638883999 LangeM1 = 262.00190839 LangeM1alt = 261.204900413 differenzM1 = -0.797007976547
+I: GradM2 = 1.88228055282 LangeM2 = 303.389188997 LangeM2alt = 304.243323674 differenzM2 = 0.854134677092
+I: steps = -2.43762791597 / int(steps) = 2I: steps = -2.22202597566 / int(steps) = 2I: pX = 210 pY = 58
+I: GradM1 = -1.75944771873 LangeM1 = 262.800304414 LangeM1alt = 262.00190839 differenzM1 = -0.79839602383
+I: GradM2 = 1.88031051306 LangeM2 = 302.535948277 LangeM2alt = 303.389188997 differenzM2 = 0.85324071935
+I: steps = -2.39256982568 / int(steps) = 2I: steps = -2.31125987906 / int(steps) = 2I: pX = 211 pY = 58
+I: GradM1 = -1.76247880314 LangeM1 = 263.600075873 LangeM1alt = 262.800304414 differenzM1 = -0.799771458697
+I: GradM2 = 1.87832375793 LangeM2 = 301.683609101 LangeM2alt = 302.535948277 differenzM2 = 0.852339176565
+I: steps = -2.35087960694 / int(steps) = 2I: steps = -2.39828627675 / int(steps) = 2I: pX = 212 pY = 58
+I: GradM1 = -1.76548238191 LangeM1 = 264.401210285 LangeM1alt = 263.600075873 differenzM1 = -0.80113441215
+I: GradM2 = 1.87632011575 LangeM2 = 300.83217913 LangeM2alt = 301.683609101 differenzM2 = 0.851429970834
+I: steps = -2.31252669795 / int(steps) = 2I: steps = -2.48308640536 / int(steps) = 2I: pX = 213 pY = 58
+I: GradM1 = -1.7684587408 LangeM1 = 265.203695299 LangeM1alt = 264.401210285 differenzM1 = -0.802485013865
+I: GradM2 = 1.87429941291 LangeM2 = 299.981666106 LangeM2alt = 300.83217913 differenzM2 = 0.850513023379
+I: steps = -2.2774808544 / int(steps) = 2I: steps = -2.5656413086 / int(steps) = 2I: pX = 214 pY = 58
+I: GradM1 = -1.77140816267 LangeM1 = 266.007518691 LangeM1alt = 265.203695299 differenzM1 = -0.803823392193
+I: GradM2 = 1.87226147387 LangeM2 = 299.132077852 LangeM2alt = 299.981666106 differenzM2 = 0.849588254539
+I: steps = -2.24571214626 / int(steps) = 2I: steps = -2.64593183513 / int(steps) = 2I: pX = 215 pY = 58
+I: GradM1 = -1.77433092748 LangeM1 = 266.812668365 LangeM1alt = 266.007518691 differenzM1 = -0.805149674172
+I: GradM2 = 1.8702061211 LangeM2 = 298.283422268 LangeM2alt = 299.132077852 differenzM2 = 0.848655583757
+I: steps = -2.21719095457 / int(steps) = 2I: steps = -2.72393863635 / int(steps) = 2I: pX = 216 pY = 58
+I: GradM1 = -1.7772273123 LangeM1 = 267.61913235 LangeM1alt = 266.812668365 differenzM1 = -0.806463985532
+I: GradM2 = 1.86813317509 LangeM2 = 297.435707339 LangeM2alt = 298.283422268 differenzM2 = 0.847714929573
+I: steps = -2.19188796824 / int(steps) = 2I: steps = -2.79964216423 / int(steps) = 2I: pX = 217 pY = 58
+I: GradM1 = -1.78009759136 LangeM1 = 268.426898801 LangeM1alt = 267.61913235 differenzM1 = -0.807766450709
+I: GradM2 = 1.86604245429 LangeM2 = 296.588941129 LangeM2alt = 297.435707339 differenzM2 = 0.846766209614
+I: steps = -2.16977418086 / int(steps) = 2I: steps = -2.873022669 / int(steps) = 2I: pX = 218 pY = 58
+I: GradM1 = -1.78294203603 LangeM1 = 269.235955994 LangeM1alt = 268.426898801 differenzM1 = -0.80905719285
+I: GradM2 = 1.86393377516 LangeM2 = 295.743131788 LangeM2alt = 296.588941129 differenzM2 = 0.845809340582
+I: steps = -2.15082088756 / int(steps) = 2I: steps = -2.94406019696 / int(steps) = 2I: pX = 219 pY = 58
+I: GradM1 = -1.78576091488 LangeM1 = 270.046292328 LangeM1alt = 269.235955994 differenzM1 = -0.810336333821
+I: GradM2 = 1.86180695207 LangeM2 = 294.89828755 LangeM2alt = 295.743131788 differenzM2 = 0.84484423825
+I: steps = -2.13499968187 / int(steps) = 2I: steps = -3.01273458815 / int(steps) = 3I: pX = 220 pY = 58
+I: GradM1 = -1.78855449367 LangeM1 = 270.857896322 LangeM1alt = 270.046292328 differenzM1 = -0.811603994223
+I: GradM2 = 1.85966179733 LangeM2 = 294.054416733 LangeM2alt = 294.89828755 differenzM2 = 0.843870817446
+I: steps = -2.12228245261 / int(steps) = 2I: steps = -2.07902547408 / int(steps) = 2I: pX = 221 pY = 58
+I: GradM1 = -1.7913230354 LangeM1 = 271.670756615 LangeM1alt = 270.857896322 differenzM1 = -0.812860293391
+I: GradM2 = 1.85749812115 LangeM2 = 293.211527741 LangeM2alt = 294.054416733 differenzM2 = 0.842888992046
+I: steps = -2.11264138083 / int(steps) = 2I: steps = -2.14291227536 / int(steps) = 2I: pX = 222 pY = 58
+I: GradM1 = -1.79406680029 LangeM1 = 272.484861965 LangeM1alt = 271.670756615 differenzM1 = -0.814105349414
+I: GradM2 = 1.85531573162 LangeM2 = 292.369629066 LangeM2alt = 293.211527741 differenzM2 = 0.841898674966
+I: steps = -2.10604893671 / int(steps) = 2I: steps = -2.20437419938 / int(steps) = 2I: pX = 223 pY = 58
+I: GradM1 = -1.79678604584 LangeM1 = 273.300201244 LangeM1alt = 272.484861965 differenzM1 = -0.815339279136
+I: GradM2 = 1.85311443467 LangeM2 = 291.528729288 LangeM2alt = 292.369629066 differenzM2 = 0.840899778148
+I: steps = -2.10247787653 / int(steps) = 2I: steps = -2.2633902379 / int(steps) = 2I: pX = 224 pY = 58
+I: GradM1 = -1.79948102683 LangeM1 = 274.116763442 LangeM1alt = 273.300201244 differenzM1 = -0.816562198171
+I: GradM2 = 1.85089403411 LangeM2 = 290.688837075 LangeM2alt = 291.528729288 differenzM2 = 0.839892212554
+I: steps = -2.10190123967 / int(steps) = 2I: steps = -2.31993916469 / int(steps) = 2I: pX = 225 pY = 58
+I: GradM1 = -1.80215199534 LangeM1 = 274.934537663 LangeM1alt = 274.116763442 differenzM1 = -0.817774220908
+I: GradM2 = 1.84865433151 LangeM2 = 289.849961187 LangeM2alt = 290.688837075 differenzM2 = 0.838875888154
+I: steps = -2.1042923456 / int(steps) = 2I: steps = -2.37399953303 / int(steps) = 2I: pX = 227 pY = 56
+I: GradM1 = -1.10512624203 LangeM1 = 275.436017979 LangeM1alt = 274.934537663 differenzM1 = -0.501480315709
+I: GradM2 = 6.09628239062 LangeM2 = 287.083611514 LangeM2alt = 289.849961187 differenzM2 = 2.76634967268
+I: steps = -7.14764663372 / int(steps) = 7I: steps = -1.33221039229 / int(steps) = 1I: pX = 196 pY = 58
+I: GradM1 = 52.1890623701 LangeM1 = 251.753848034 LangeM1alt = 275.436017979 differenzM1 = 23.6821699446
+I: GradM2 = -60.5505106442 LangeM2 = 314.560010173 LangeM2alt = 287.083611514 differenzM2 = -27.4763986588
+I: steps = 67.1306985266 / int(steps) = 67I: steps = 57.6556366856 / int(steps) = 57I: pX = 234 pY = 0
+I: GradM1 = -5.99007301706 LangeM1 = 254.472002389 LangeM1alt = 251.753848034 differenzM1 = -2.71815435511
+I: GradM2 = 132.417628674 LangeM2 = 254.472002389 LangeM2alt = 314.560010173 differenzM2 = 60.0880077837
+I: steps = -147.0 / int(steps) = 147I: steps = -6.0 / int(steps) = 5I: steps = 0.111111111111 / int(steps) = 0I: steps = 1.22222222222 / int(steps) = 1I: steps = 1.33333333333 / int(steps) = 1I: steps = 1.44444444444 / int(steps) = 1I: steps = 1.55555555556 / int(steps) = 1I: steps = 1.66666666667 / int(steps) = 1I: steps = 1.77777777778 / int(steps) = 1I: steps = 1.88888888889 / int(steps) = 1I: steps = 2.0 / int(steps) = 2I: steps = 1.11111111111 / int(steps) = 1I: steps = 1.22222222222 / int(steps) = 1I: steps = 1.33333333333 / int(steps) = 1I: steps = -0.777777777778 / int(steps) = 0I: steps = -1.88888888889 / int(steps) = 1I: steps = -2.0 / int(steps) = 1I: steps = -2.11111111111 / int(steps) = 2I: steps = -1.22222222222 / int(steps) = 1I: steps = -1.33333333333 / int(steps) = 1I: steps = -1.44444444444 / int(steps) = 1I: steps = -1.55555555556 / int(steps) = 1I: steps = 0.555555555556 / int(steps) = 0I: steps = 1.66666666667 / int(steps) = 1I: steps = 1.77777777778 / int(steps) = 1I: steps = 1.88888888889 / int(steps) = 1I: steps = 2.0 / int(steps) = 2I: steps = 1.11111111111 / int(steps) = 1I: steps = 1.22222222222 / int(steps) = 1I: steps = 1.33333333333 / int(steps) = 1I: steps = 1.44444444444 / int(steps) = 1I: steps = 1.55555555556 / int(steps) = 1I: steps = 1.66666666667 / int(steps) = 1I: steps = 1.77777777778 / int(steps) = 1I: steps = 1.88888888889 / int(steps) = 1I: steps = 2.0 / int(steps) = 2I: steps = 1.11111111111 / int(steps) = 1I: steps = 1.22222222222 / int(steps) = 1I: steps = 1.33333333333 / int(steps) = 1I: steps = 1.44444444444 / int(steps) = 1I: steps = 1.55555555556 / int(steps) = 1I: steps = 1.66666666667 / int(steps) = 1I: steps = -1.11111111111 / int(steps) = 1I: steps = -1.22222222222 / int(steps) = 1I: steps = -1.33333333333 / int(steps) = 1I: steps = -1.44444444444 / int(steps) = 1I: steps = -1.55555555556 / int(steps) = 1I: steps = -1.66666666667 / int(steps) = 1I: steps = -1.77777777778 / int(steps) = 1I: steps = 0.333333333333 / int(steps) = 0I: steps = 1.44444444444 / int(steps) = 1I: steps = 1.55555555556 / int(steps) = 1I: steps = 1.66666666667 / int(steps) = 1I: steps = 1.77777777778 / int(steps) = 1I: steps = 1.88888888889 / int(steps) = 1I: steps = 2.0 / int(steps) = 2I: steps = 1.11111111111 / int(steps) = 1I: steps = 1.22222222222 / int(steps) = 1I: steps = 1.33333333333 / int(steps) = 1I: steps = 1.44444444444 / int(steps) = 1I: steps = 1.55555555556 / int(steps) = 1I: steps = 1.66666666667 / int(steps) = 1I: steps = 1.77777777778 / int(steps) = 1I: steps = 1.88888888889 / int(steps) = 1I: steps = 2.0 / int(steps) = 2I: steps = 1.11111111111 / int(steps) = 1I: steps = 1.22222222222 / int(steps) = 1I: steps = 1.33333333333 / int(steps) = 1I: steps = 1.44444444444 / int(steps) = 1I: steps = 1.55555555556 / int(steps) = 1I: steps = 1.66666666667 / int(steps) = 1I: steps = 1.77777777778 / int(steps) = 1I: steps = 1.88888888889 / int(steps) = 1I: steps = 2.0 / int(steps) = 2I: steps = 1.11111111111 / int(steps) = 1I: steps = 1.22222222222 / int(steps) = 1I: steps = 1.33333333333 / int(steps) = 1I: steps = 1.44444444444 / int(steps) = 1I: steps = 1.55555555556 / int(steps) = 1I: steps = 1.77777777778 / int(steps) = 1I: steps = 1.88888888889 / int(steps) = 1I: steps = 2.0 / int(steps) = 2I: steps = 1.11111111111 / int(steps) = 1I: steps = 1.22222222222 / int(steps) = 1I: steps = 1.33333333333 / int(steps) = 1I: steps = -0.777777777778 / int(steps) = 0I: steps = -1.88888888889 / int(steps) = 1I: steps = -2.0 / int(steps) = 1I: steps = -2.11111111111 / int(steps) = 2I: steps = -1.22222222222 / int(steps) = 1I: steps = -1.33333333333 / int(steps) = 1I: steps = -1.44444444444 / int(steps) = 1I: steps = -1.55555555556 / int(steps) = 1I: steps = -1.66666666667 / int(steps) = 1I: steps = -1.77777777778 / int(steps) = 1I: steps = -1.88888888889 / int(steps) = 1I: steps = -2.0 / int(steps) = 1I: steps = -2.11111111111 / int(steps) = 2I: steps = -1.22222222222 / int(steps) = 1I: steps = -1.33333333333 / int(steps) = 1I: steps = -1.44444444444 / int(steps) = 1I: steps = 1.66666666667 / int(steps) = 1I: steps = 1.77777777778 / int(steps) = 1I: steps = 1.88888888889 / int(steps) = 1I: steps = 2.0 / int(steps) = 2

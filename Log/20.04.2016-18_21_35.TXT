@@ -1,0 +1,2 @@
+I: pSpeed90 self.MotorTempo15.0
+I: pSpeed45 self.MotorTempo7.5
